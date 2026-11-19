@@ -1,83 +1,95 @@
 {
+ "1c7/chinese-independent-developer": {
+  "days": 1,
+  "first": "2026-11-20",
+  "last": "2026-11-20",
+  "new_on": "2026-11-20"
+ },
  "521xueweihan/GitHub520": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "521xueweihan/HelloGitHub": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "Anduin2017/HowToCook": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "AstrBotDevs/AstrBot": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "CarGuo/GSYVideoPlayer": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
+ },
+ "HIllya51/LunaTranslator": {
+  "days": 1,
+  "first": "2026-11-20",
+  "last": "2026-11-20",
+  "new_on": "2026-11-20"
  },
  "Infrasys-AI/AISystem": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "Johnshall/Shadowrocket-ADBlock-Rules-Forever": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "LorisYounger/VPet": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "MaaAssistantArknights/MaaAssistantArknights": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "Moriafly/SaltPlayerSource": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "OI-wiki/OI-wiki": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "PantsuDango/Dango-Translator": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "RapidAI/RapidOCR": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "RayWangQvQ/BiliBiliToolPro": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "ScottSloan/Bili23-Downloader": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "Semporia/TikTok-Unlock": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "SwiftOldDriver/iOS-Weekly": {
   "days": 2,
@@ -85,57 +97,57 @@
   "last": "2026-11-19"
  },
  "XIU2/CloudflareSpeedTest": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "XX-net/XX-Net": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "XayahSuSuSu/Android-DataBackup": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "YunaiV/ruoyi-vue-pro": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "_meta": {
   "baseline": "2026-11-18"
  },
  "alibaba/fastjson2": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "antvis/X6": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "aoaostar/legado": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "ascoders/weekly": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "ccfos/nightingale": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "coolsnowwolf/lede": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "cxasm/notepad--": {
   "days": 2,
@@ -143,164 +155,170 @@
   "last": "2026-11-19"
  },
  "d2l-ai/d2l-zh": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "digoal/blog": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "fanmingming/live": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "firerpa/lamda": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "fmz200/wool_scripts": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "forthespada/CS-Books": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "gaotianliuyun/gao": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "gdy666/lucky": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "go-musicfox/go-musicfox": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "halo-dev/halo": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "hanxinhao000/ZeroTermux": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "higress-group/higress": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "hiroi-sora/Umi-OCR": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "iDvel/rime-ice": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "immersive-translate/immersive-translate": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "jaywcjlove/linux-command": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "jeequan/jeepay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "jitwxs/163MusicLyrics": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "knownsec/404StarLink": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "krahets/hello-algo": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "langbot-app/LangBot": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "layui/layui": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "lionsoul2014/ip2region": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "lizhipay/acg-faka": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "lxgw/LxgwWenKai": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "maotoumao/MusicFree": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "nilaoda/N_m3u8DL-RE": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "notionnext-org/NotionNext": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "oceanbase/miniob": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "pt-plugins/PT-Plugin-Plus": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "pymumu/smartdns": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
+ },
+ "qd-today/templates": {
+  "days": 1,
+  "first": "2026-11-20",
+  "last": "2026-11-20",
+  "new_on": "2026-11-20"
  },
  "qjfoidnh/BaiduPCS-Go": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "rebase-network/who-is-hiring": {
   "days": 2,
@@ -308,103 +326,103 @@
   "last": "2026-11-19"
  },
  "ruanyf/weekly": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "ryanhanwu/How-To-Ask-Questions-The-Smart-Way": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "shadow1ng/fscan": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "soybeanjs/soybean-admin": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "timqian/chinese-independent-blogs": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "toly1994328/FlutterUnit": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "vastsa/FileCodeBox": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "wanglin2/mind-map": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "wangrongding/wechat-bot": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "whyour/qinglong": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "xfangfang/wiliwili": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "xiaojieonly/Ehviewer_CN_SXJ": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "xiaolincoder/CS-Base": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "xifangczy/cat-catch": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "yaklang/yakit": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "yangzongzhuan/RuoYi-Vue": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "yangzongzhuan/RuoYi-Vue3": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "zhayujie/CowAgent": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "zizifn/edgetunnel": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
  "zotero-chinese/styles": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-18",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  }
 }
