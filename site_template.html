@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GitHub 中文热门榜</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@700;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  /* layout: 红榜式报头 + 带横线的榜单；大号宋体名次；朱红印章是页面上唯一的重色 */
+  --paper: #eff0f2;
+  --card: #ffffff;
+  --ink: #16171b;
+  --muted: #646770;
+  --rule: #dddee2;
+  --seal: #c3272b;
+  --font-display: "Noto Serif SC", "Songti SC", "STSong", "SimSun", serif;
+  --font-body: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #111215; --card: #18191d; --ink: #ecebe8; --muted: #9c9ea6; --rule: #2b2d33; --seal: #e04a4e;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #111215; --card: #18191d; --ink: #ecebe8; --muted: #9c9ea6; --rule: #2b2d33; --seal: #e04a4e;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font: 15px/1.65 var(--font-body);
+}
+a { color: inherit; }
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--seal); outline-offset: 2px; border-radius: 3px; }
+.wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+
+/* 报头 */
+.mast { background: var(--card); border-top: 6px solid var(--seal); border-bottom: 3px double var(--ink); }
+.mast .wrap { display: grid; grid-template-columns: auto 1fr; gap: 22px; align-items: center; padding-top: 28px; padding-bottom: 24px; }
+.seal {
+  width: 76px; height: 76px; display: grid; place-items: center;
+  background: var(--seal); color: #fff; border-radius: 6px;
+  box-shadow: inset 0 0 0 3px var(--seal), inset 0 0 0 5px rgba(255,255,255,.85);
+  font: 900 26px/1 var(--font-display); writing-mode: vertical-rl; letter-spacing: .12em;
+  transform: rotate(-4deg);
+  animation: stamp .5s cubic-bezier(.2,.9,.3,1.2) both;
+}
+@keyframes stamp { from { transform: rotate(-12deg) scale(1.25); } to { transform: rotate(-4deg) scale(1); } }
+.kicker { margin: 0; font: 500 12.5px/1.4 var(--font-mono); letter-spacing: .06em; color: var(--muted); text-transform: uppercase; }
+h1 { margin: 2px 0 4px; font: 900 clamp(34px, 6vw, 52px)/1.1 var(--font-display); letter-spacing: .04em; text-wrap: balance; }
+.meta { margin: 0; color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+.meta span { white-space: nowrap; }
+
+/* 摘要 */
+.sum-band { background: var(--card); border-bottom: 1px solid var(--rule); }
+.summary { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin: 0 auto; }
+.summary > div { padding: 14px 20px 16px; border-left: 1px solid var(--rule); min-width: 0; }
+.summary > div:first-child { border-left: 0; padding-left: 0; }
+.summary dt { font-size: 12.5px; color: var(--muted); }
+.summary dd { margin: 2px 0 0; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; min-width: 0; }
+.summary .big { font: 700 22px/1.2 var(--font-display); font-variant-numeric: tabular-nums; }
+.summary .who { font: 500 13px/1.4 var(--font-mono); color: var(--muted); overflow-wrap: anywhere; text-decoration: none; }
+.summary a.who:hover { color: var(--ink); text-decoration: underline; }
+
+/* 控件 */
+.controls { position: sticky; top: 0; z-index: 5; background: var(--paper); border-bottom: 1px solid var(--rule); }
+.controls .wrap { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; padding-top: 12px; padding-bottom: 12px; }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 8px; background: var(--card); padding: 3px; gap: 2px; }
+.seg button { border: 0; background: none; padding: 5px 12px; border-radius: 6px; cursor: pointer; color: var(--muted); font-size: 14px; }
+.seg button:hover { color: var(--ink); }
+.seg button[aria-selected="true"], .seg button[aria-pressed="true"] { background: var(--ink); color: var(--card); }
+.seg-label { font-size: 13px; color: var(--muted); margin-right: -6px; }
+.toggle { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; cursor: pointer; user-select: none; }
+.toggle input { accent-color: var(--seal); width: 16px; height: 16px; margin: 0; }
+.toggle.is-disabled { color: var(--muted); cursor: not-allowed; }
+.search { margin-left: auto; flex: 1 1 200px; max-width: 280px; }
+.search input { width: 100%; padding: 7px 12px; border: 1px solid var(--rule); border-radius: 8px; background: var(--card); font-size: 14px; }
+.search input::placeholder { color: var(--muted); }
+
+.langs { display: flex; flex-wrap: wrap; gap: 6px; padding: 14px 0 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--rule); background: var(--card); border-radius: 999px; padding: 3px 11px; font-size: 13px; cursor: pointer; }
+.chip:hover { border-color: var(--muted); }
+.chip[aria-pressed="true"] { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+.chip .n { color: var(--muted); font-variant-numeric: tabular-nums; }
+.dot { width: 9px; height: 9px; border-radius: 50%; background: var(--c, var(--muted)); flex: none; }
+
+.note { margin: 10px 0 0; padding: 10px 14px; border-left: 3px solid var(--seal); background: var(--card); font-size: 14px; color: var(--muted); }
+.note.warn { color: var(--ink); font-weight: 500; }
+.more { border: 1px solid var(--rule); background: var(--card); border-radius: 999px; padding: 3px 10px; font-size: 13px; color: var(--ink); cursor: pointer; }
+.more.is-on { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+.cov-ok { color: var(--muted); }
+.tag-batch { font-size: 12px; color: var(--muted); border: 1px dashed var(--muted); border-radius: 4px; padding: 0 6px; cursor: help; }
+.row.is-batch .name, .row.is-batch .desc { opacity: .6; }
+
+/* 榜单 */
+.list { list-style: none; margin: 12px 0 0; padding: 0; background: var(--card); border-top: 1px solid var(--ink); }
+.row { display: grid; grid-template-columns: 3.4rem minmax(0, 1fr) 8.5rem; gap: 6px 18px; padding: 18px 20px 18px 8px; border-bottom: 1px solid var(--rule); }
+.rank { font: 900 30px/1 var(--font-display); color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; padding-top: 2px; opacity: .55; }
+.row:nth-child(-n+3) .rank { color: var(--seal); opacity: 1; }
+.head { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
+.name { font: 400 16px/1.35 var(--font-mono); text-decoration: none; overflow-wrap: anywhere; }
+.name .owner { color: var(--muted); }
+.name b { font-weight: 500; }
+.name:hover b { text-decoration: underline; text-underline-offset: 3px; }
+.stamp {
+  display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 3px;
+  background: var(--seal); color: #fff; font: 900 14px/1 var(--font-display);
+  box-shadow: inset 0 0 0 1.5px var(--seal), inset 0 0 0 2.5px rgba(255,255,255,.8); transform: rotate(-6deg);
+}
+.streak { font-size: 12px; color: var(--muted); border: 1px solid var(--rule); border-radius: 4px; padding: 0 6px; }
+.desc { margin: 4px 0 6px; max-width: 65ch; overflow-wrap: anywhere; }
+.facts { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.facts span { display: inline-flex; align-items: center; gap: 5px; }
+.gain { text-align: right; font-variant-numeric: tabular-nums; }
+.gain strong { display: block; font: 700 24px/1.1 var(--font-display); }
+.gain .lbl { font-size: 12px; color: var(--muted); }
+.bar { height: 4px; background: var(--rule); border-radius: 2px; margin: 8px 0 4px; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--ink); border-radius: 2px; }
+.row:nth-child(-n+3) .bar i { background: var(--seal); }
+.pct { font-size: 12.5px; color: var(--muted); }
+.pct.on { color: var(--ink); font-weight: 500; }
+
+.empty { margin: 12px 0 0; padding: 40px 20px; text-align: center; background: var(--card); border-top: 1px solid var(--ink); color: var(--muted); }
+.empty button { margin-top: 10px; border: 1px solid var(--rule); background: var(--paper); border-radius: 8px; padding: 6px 14px; cursor: pointer; }
+
+footer { padding: 28px 0 40px; font-size: 13px; color: var(--muted); }
+footer a { color: var(--muted); }
+
+@media (max-width: 640px) {
+  .wrap { padding: 0 16px; }
+  .mast .wrap { gap: 16px; padding-top: 20px; padding-bottom: 18px; }
+  .seal { width: 60px; height: 60px; font-size: 20px; }
+  .summary { grid-template-columns: 1fr; }
+  .summary > div { border-left: 0; border-top: 1px solid var(--rule); padding: 10px 0 12px; }
+  .summary > div:first-child { border-top: 0; }
+  .controls { position: static; }
+  .search { max-width: none; margin-left: 0; flex-basis: 100%; }
+  .row { grid-template-columns: 2.4rem minmax(0, 1fr); padding: 16px 16px 16px 4px; }
+  .rank { font-size: 22px; }
+  .gain { grid-column: 2; text-align: left; display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .gain strong { display: inline; font-size: 18px; }
+  .gain .bar { flex: 1 1 80px; margin: 0; align-self: center; }
+}
+@media (prefers-reduced-motion: reduce) { .seal { animation: none; } }
+</style>
+</head>
+<body>
+<header class="mast">
+  <div class="wrap">
+    <div class="seal" id="seal" aria-hidden="true">今日</div>
+    <div>
+      <p class="kicker" id="kicker">GitHub Trending · README 为中文</p>
+      <h1>中文热门榜</h1>
+      <p class="meta" id="meta"></p>
+    </div>
+  </div>
+</header>
+<div class="sum-band"><dl class="summary wrap" id="summary"></dl></div>
+
+<nav class="controls" aria-label="筛选与排序">
+  <div class="wrap">
+    <div class="seg" role="tablist" id="tabs" aria-label="榜单周期"></div>
+    <span class="seg-label" id="sortLabel">排序</span>
+    <div class="seg" id="sort" aria-labelledby="sortLabel">
+      <button type="button" id="sort-period" data-sort="period" aria-pressed="true">新增星</button>
+      <button type="button" id="sort-growth" data-sort="growth" aria-pressed="false">增长率</button>
+    </div>
+    <label class="toggle" id="onlyNewWrap"><input type="checkbox" id="onlyNew"> 只看新上榜</label>
+    <label class="toggle" id="hideBatchWrap" hidden title="多个账号用同一个词命名、星数全卡在门槛附近，或简介几乎一样的仓库"><input type="checkbox" id="hideBatch" checked> 隐藏疑似批量刷星</label>
+    <div class="search"><input type="search" id="q" placeholder="搜索项目名或简介" aria-label="搜索项目名或简介" autocomplete="off"></div>
+  </div>
+</nav>
+
+<main class="wrap">
+  <div class="langs" id="langs" aria-label="按编程语言筛选"></div>
+  <p class="note warn" id="covWarn" hidden></p>
+  <p class="note" id="note" hidden></p>
+  <p class="note" id="trackNote" hidden></p>
+  <ol class="list" id="list"></ol>
+  <div class="empty" id="empty" hidden>
+    <div>没有符合条件的项目。</div>
+    <button type="button" id="clear">清除筛选</button>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap" id="foot"></div>
+</footer>
+
+<script id="trending-data" type="application/json">/*__TRENDING_DATA__*/null</script>
+<script>
+(function () {
+  "use strict";
+  var raw = document.getElementById("trending-data").textContent.trim();
+  var DATA = null;
+  try { DATA = JSON.parse(raw); } catch (e) { DATA = null; }
+
+  var LABEL = { daily: "今日", weekly: "本周", monthly: "本月", "new": "新项目" };
+  var SEAL = { daily: "今日", weekly: "本周", monthly: "本月", "new": "新星" };
+  var ORDER = ["daily", "weekly", "monthly", "new"];
+  var SAFE_COLOR = /^(#[0-9a-f]{3,8}|rgba?\([\d.,\s%]+\))$/i;
+  var S = { period: "daily", sort: "period", onlyNew: false, hideBatch: true, lang: "", q: "" };
+
+  function $(id) { return document.getElementById(id); }
+  function h(tag, props, kids) {
+    var n = document.createElement(tag);
+    if (props) Object.keys(props).forEach(function (k) {
+      if (k === "text") n.textContent = props[k];
+      else if (k === "class") n.className = props[k];
+      else n.setAttribute(k, props[k]);
+    });
+    (kids || []).forEach(function (c) { if (c) n.appendChild(typeof c === "string" ? document.createTextNode(c) : c); });
+    return n;
+  }
+  function fmt(n) { return Number(n || 0).toLocaleString("en-US"); }
+  function growth(r) { return r.per_day != null ? r.per_day : r.period_stars / Math.max(r.stars, 1); }
+  function perDay(v) { return v >= 100 ? fmt(Math.round(v)) : v.toFixed(1); }
+  function pct(x) { var v = x * 100; return (v >= 10 ? v.toFixed(0) : v >= 1 ? v.toFixed(1) : v.toFixed(2)) + "%"; }
+  function cnMD(iso) { var p = String(iso).split("-"); return p.length === 3 ? (+p[1]) + "月" + (+p[2]) + "日" : iso; }
+  function addDays(iso, n) {
+    var d = new Date(iso + "T00:00:00Z");
+    if (isNaN(d)) return iso;
+    d.setUTCDate(d.getUTCDate() + n);
+    return d.toISOString().slice(0, 10);
+  }
+  function cnDate(iso) { var p = String(iso).split("-"); return p.length === 3 ? (+p[0]) + "年" + (+p[1]) + "月" + (+p[2]) + "日" : iso; }
+  function localTime(iso) {
+    var d = new Date(iso);
+    if (isNaN(d)) return "";
+    return d.toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false });
+  }
+  function dotFor(color) {
+    var d = h("i", { class: "dot", "aria-hidden": "true" });
+    if (color && SAFE_COLOR.test(color)) d.style.setProperty("--c", color);
+    return d;
+  }
+
+  var periods = DATA && DATA.periods ? ORDER.filter(function (p) { return DATA.periods[p]; }) : [];
+  if (!periods.length) {
+    $("meta").textContent = "还没有数据。运行一次 cn_trending.py --site-dir docs 就会生成。";
+    $("onlyNewWrap").hidden = true;
+    return;
+  }
+
+  function cur() { return DATA.periods[S.period]; }
+  function isNewTab() { return S.period === "new"; }
+  function pool() {
+    var rs = cur().repos;
+    return isNewTab() && S.hideBatch ? rs.filter(function (r) { return !r.batch; }) : rs;
+  }
+  function keyFn() { return S.sort === "growth" ? growth : function (r) { return r.period_stars; }; }
+  function sorted(list) {
+    var k = keyFn();
+    return list.slice().sort(function (a, b) { return k(b) - k(a) || b.period_stars - a.period_stars; });
+  }
+  function filtered() {
+    var rows = sorted(pool());
+    if (S.onlyNew) rows = rows.filter(function (r) { return r.is_new; });
+    if (S.lang) rows = rows.filter(function (r) { return (r.language || "未标注") === S.lang; });
+    if (S.q) {
+      var q = S.q.toLowerCase();
+      rows = rows.filter(function (r) { return (r.repo + " " + r.desc).toLowerCase().indexOf(q) !== -1; });
+    }
+    return rows;
+  }
+
+  function renderTabs() {
+    var tabs = $("tabs");
+    tabs.textContent = "";
+    periods.forEach(function (p) {
+      var b = h("button", { type: "button", role: "tab", id: "tab-" + p, "aria-selected": String(p === S.period), text: LABEL[p] });
+      b.addEventListener("click", function () { location.hash = p; });
+      tabs.appendChild(b);
+    });
+  }
+
+  function renderHead() {
+    var d = cur(), label = LABEL[S.period], newTab = isNewTab(), rs = pool();
+    $("seal").textContent = SEAL[S.period];
+    $("kicker").textContent = newTab ? "GitHub 搜索 · 简介或 README 为中文" : "GitHub Trending · README 为中文";
+    $("sort-period").textContent = newTab ? "总星" : "新增星";
+    $("sort-growth").textContent = newTab ? "日均星" : "增长率";
+    $("hideBatchWrap").hidden = !newTab;
+    var n = rs.length, nNew = rs.filter(function (r) { return r.is_new; }).length;
+    var cov = d.coverage || {};
+    var parts = newTab
+      ? [cnDate(d.date) + " 新项目榜",
+         (cov.start ? cnDate(cov.start) + "（北京时间）以来新建" : "近 " + (cov.days || 30) + " 天新建") + "、" + (cov.min_stars || 100) + " 星以上",
+         "共 " + n + " 个项目"]
+      : [cnDate(d.date) + " " + label + "榜", "共 " + n + " 个项目"];
+    if (!d.first_run) parts.push("新上榜 " + nNew + " 个");
+    if (newTab) {
+      var hidden = d.repos.length - n;
+      if (hidden) parts.push("已隐藏疑似批量刷星 " + hidden + " 个");
+      if (cov.candidates && !(cov.failed || []).length) parts.push("扫描全部 " + fmt(cov.candidates) + " 个新仓库");
+      if (cov.readme && cov.readme.pending) parts.push("还有 " + fmt(cov.readme.pending) + " 个简介不是中文的没来得及看 README，下次继续");
+    } else if (cov.pages && cov.full_sweep && !(cov.failed || []).length) {
+      parts.push("已覆盖全部 " + cov.pages + " 个分榜");
+    }
+    var tr = !newTab && cov.tracked;
+    if (tr) {
+      if (tr.ready) parts.push("全量跟踪 " + fmt(tr.tracked) + " 个中文仓库，补充 Trending 未收录的 " + (tr.added || 0) + " 个");
+      else parts.push("全量跟踪数据积累中");
+    }
+    var tn = $("trackNote");
+    if (tr && !tr.ready) {
+      var NAME = { daily: "日榜", weekly: "周榜", monthly: "月榜" }, SPAN = { daily: 1, weekly: 7, monthly: 30 };
+      var when = ["daily", "weekly", "monthly"].filter(function (p) {
+        return DATA.periods[p] && DATA.periods[p].coverage && DATA.periods[p].coverage.tracked;
+      }).map(function (p) {
+        var pd = DATA.periods[p], t2 = pd.coverage.tracked;
+        if (t2.ready) return NAME[p] + "已生效";
+        var on = t2.ready_on || addDays(pd.date, SPAN[p] - (t2.days || 1) + 1);
+        return NAME[p] + "从 " + cnMD(on);
+      }).join("、");
+      tn.hidden = false;
+      tn.textContent = "全量星数跟踪：最近一次扫描了全 GitHub " + fmt(tr.min_stars || 100) + " 星以上的 " + fmt(tr.scanned) +
+        " 个仓库，记录了其中 " + fmt(tr.tracked) + " 个中文项目的星数。要攒够几天的记录才能算出涨星：" + when +
+        "（北京时间）开始补充 Trending 没收录的项目。在那之前，这里显示的是 GitHub Trending 的数据。";
+    } else { tn.hidden = true; }
+    var t = localTime(d.generated_at);
+    if (t) parts.push("更新于 " + t + "（北京时间）");
+    var meta = $("meta");
+    meta.textContent = "";
+    parts.forEach(function (s, i) {
+      if (i) meta.appendChild(document.createTextNode(" · "));
+      meta.appendChild(h("span", { text: s }));
+    });
+
+    var byPeriod = function (a, b) { return b.period_stars - a.period_stars; };
+    var byGrowth = function (a, b) { return growth(b) - growth(a); };
+    var top = rs.slice().sort(byPeriod)[0];
+    var fast = rs.slice().sort(byGrowth)[0];
+    var sum = $("summary");
+    sum.textContent = "";
+    function tile(title, big, who, href) {
+      var dd = h("dd", null, [h("span", { class: "big", text: big })]);
+      if (who) dd.appendChild(href ? h("a", { class: "who", href: href, text: who }) : h("span", { class: "who", text: who }));
+      sum.appendChild(h("div", null, [h("dt", { text: title }), dd]));
+    }
+    if (!top) tile("榜单", "—", "这期没有项目");
+    else if (newTab) {
+      tile("总星最多", fmt(top.stars) + " 星", top.repo, top.url);
+      tile("日均最高（总星 ÷ 建库天数）", perDay(fast.per_day) + " 星/天", fast.repo, fast.url);
+    } else {
+      tile(label + "涨星最多", "+" + fmt(top.period_stars), top.repo, top.url);
+      tile("增长最快（新增 ÷ 总星）", pct(growth(fast)), fast.repo, fast.url);
+    }
+    if (d.first_run) tile("新上榜", "—", "首次运行，下次更新起统计");
+    else tile("新上榜", nNew + " 个", nNew ? "列表里盖了「新」字章的就是" : "这次没有新面孔");
+
+    var warn = $("covWarn"), failed = cov.failed || [];
+    if (tr && !tr.complete) {
+      warn.hidden = false;
+      warn.textContent = "全量星数跟踪这次没有扫完（" + ((tr.problems || [])[0] || ("还剩 " + tr.unfinished + " 个区间没扫")) +
+        "），Trending 以外的项目可能有遗漏，下次更新会重新扫描。";
+    } else if (cov.kind === "search" && failed.length) {
+      warn.hidden = false;
+      warn.textContent = "有 " + failed.length + " 个时间段搜索失败（" + failed.slice(0, 3).join("；") +
+        (failed.length > 3 ? " 等" : "") + "），这期新项目榜可能不完整，下次更新会重新搜索。";
+    } else if (cov.pages && !cov.full_sweep) {
+      warn.hidden = false;
+      warn.textContent = "这期只抓了指定的 " + (cov.pages - 1) + " 个语言分榜，榜单不完整。";
+    } else if (failed.length) {
+      warn.hidden = false;
+      warn.textContent = "有 " + failed.length + " 个分榜重试后仍抓取失败（" + failed.slice(0, 8).join("、") +
+        (failed.length > 8 ? " 等" : "") + "），这期榜单可能不完整，下次更新会重新抓取。";
+    } else { warn.hidden = true; }
+
+    var note = $("note");
+    if (d.first_run) {
+      note.hidden = false;
+      note.textContent = "首次运行：今天的榜单已记为基线。从下次更新起，新冒出来的项目会盖上「新」字章。";
+    } else { note.hidden = true; }
+
+    var only = $("onlyNew"), wrap = $("onlyNewWrap");
+    only.disabled = !!d.first_run;
+    wrap.classList.toggle("is-disabled", !!d.first_run);
+    wrap.title = d.first_run ? "首次运行还没有新上榜数据" : "";
+    if (d.first_run) { S.onlyNew = false; only.checked = false; }
+  }
+
+  function renderLangs() {
+    var counts = {}, colors = {};
+    pool().forEach(function (r) {
+      var l = r.language || "未标注";
+      counts[l] = (counts[l] || 0) + 1;
+      if (r.lang_color && !colors[l]) colors[l] = r.lang_color;
+    });
+    var langs = Object.keys(counts).sort(function (a, b) {
+      if (a === "未标注") return 1; if (b === "未标注") return -1;
+      return counts[b] - counts[a] || a.localeCompare(b);
+    });
+    if (S.lang && !counts[S.lang]) S.lang = "";
+    var box = $("langs");
+    box.textContent = "";
+    function chip(id, text, n, color, value) {
+      var b = h("button", { type: "button", class: "chip", id: id, "aria-pressed": String(S.lang === value) },
+        [value ? dotFor(color) : null, h("span", { text: text }), h("span", { class: "n", text: String(n) })]);
+      b.addEventListener("click", function () { S.lang = value; renderLangs(); renderList(); });
+      box.appendChild(b);
+    }
+    chip("lang-all", "全部", pool().length, "", "");
+    var SHOW = 14, shown = langs.slice(0, SHOW), rest = langs.slice(SHOW);
+    shown.forEach(function (l, i) { chip("lang-" + i, l, counts[l], colors[l], l); });
+    if (rest.length) {
+      var sel = h("select", { class: "more" + (rest.indexOf(S.lang) !== -1 ? " is-on" : ""), id: "lang-more", "aria-label": "更多语言" });
+      sel.appendChild(h("option", { value: "", text: "更多语言（" + rest.length + "）" }));
+      rest.forEach(function (l) {
+        var o = h("option", { value: l, text: l + "  " + counts[l] });
+        if (l === S.lang) o.selected = true;
+        sel.appendChild(o);
+      });
+      sel.addEventListener("change", function () { S.lang = sel.value; renderLangs(); renderList(); });
+      box.appendChild(sel);
+    }
+  }
+
+  function renderList() {
+    var rows = filtered(), k = keyFn(), newTab = isNewTab();
+    var max = Math.max.apply(null, pool().map(k).concat([1e-9]));
+    var list = $("list");
+    list.textContent = "";
+    $("empty").hidden = rows.length > 0;
+    list.hidden = rows.length === 0;
+    var unit = LABEL[S.period] + "新增";
+    rows.forEach(function (r, i) {
+      var parts = r.repo.split("/");
+      var head = h("div", { class: "head" }, [
+        h("a", { class: "name", href: r.url, target: "_blank", rel: "noopener" },
+          [h("span", { class: "owner", text: parts[0] + " / " }), h("b", { text: parts.slice(1).join("/") })]),
+        r.is_new ? h("span", { class: "stamp", title: "新上榜", "aria-label": "新上榜", text: "新" }) : null,
+        r.batch ? h("span", { class: "tag-batch", title: "多个账号用同一个词命名、星数全卡在门槛附近，或简介几乎一样", text: "疑似批量刷星" }) : null,
+        r.src && r.src.indexOf("trending") === -1 ? h("span", { class: "streak", title: "GitHub Trending 没有列出这个项目，是全量星数跟踪找到的", text: "Trending 未收录" }) : null,
+        r.readme_zh ? h("span", { class: "streak", title: "简介不是中文，看了 README（或 README 提供中文版、issue 多用中文）才认出是中文项目", text: "README 中文" }) : null,
+        r.days >= 2 ? h("span", { class: "streak", text: "在榜 " + r.days + " 天" }) : null
+      ]);
+      var facts = h("div", { class: "facts" }, [
+        r.language ? h("span", null, [dotFor(r.lang_color), r.language]) : null,
+        newTab ? null : h("span", { title: "总 star" }, ["★ " + fmt(r.stars)]),
+        h("span", { title: "fork 数" }, ["⑂ " + fmt(r.forks)]),
+        newTab && r.created ? h("span", { title: "建库日期" }, ["建于 " + r.created]) : null
+      ]);
+      var bar = h("div", { class: "bar", "aria-hidden": "true" }, [h("i")]);
+      bar.firstChild.style.width = Math.max(2, Math.round(k(r) / max * 100)) + "%";
+      var gain = newTab
+        ? h("div", { class: "gain" }, [
+            h("strong", { text: fmt(r.stars) }),
+            h("span", { class: "lbl", text: "建库 " + Math.max(1, Math.round(r.age_days)) + " 天" }),
+            bar,
+            h("span", { class: "pct" + (S.sort === "growth" ? " on" : ""), title: "总星 ÷ 建库天数", text: "日均 " + perDay(r.per_day) + " 星" })
+          ])
+        : h("div", { class: "gain" }, [
+            h("strong", { text: "+" + fmt(r.period_stars) }),
+            h("span", { class: "lbl", title: r.approx ? (r.readme_zh ? "这个项目是最近看了 README 才加入跟踪的，更早的星数没有记录，只能算出最少涨了多少" : "这个项目上次记录时还不到 100 星，只能算出最少涨了多少") : "", text: unit + (r.approx ? "（至少）" : "") }),
+            bar,
+            h("span", { class: "pct" + (S.sort === "growth" ? " on" : ""), title: "新增 ÷ 总 star", text: "增长 " + pct(growth(r)) })
+          ]);
+      list.appendChild(h("li", { class: "row" + (r.batch ? " is-batch" : "") }, [
+        h("span", { class: "rank", text: String(i + 1).padStart(2, "0") }),
+        h("div", { class: "main" }, [head, r.desc ? h("p", { class: "desc", text: r.desc }) : null, facts]),
+        gain
+      ]));
+    });
+  }
+
+  function renderAll() {
+    renderTabs(); renderHead(); renderLangs(); renderList();
+    document.title = "GitHub 中文热门榜 · " + LABEL[S.period];
+  }
+
+  function route() {
+    var p = location.hash.replace(/^#/, "");
+    S.period = periods.indexOf(p) !== -1 ? p : periods[0];
+    renderAll();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll("#sort button"), function (b) {
+    b.addEventListener("click", function () {
+      S.sort = b.getAttribute("data-sort");
+      Array.prototype.forEach.call(document.querySelectorAll("#sort button"), function (x) {
+        x.setAttribute("aria-pressed", String(x === b));
+      });
+      renderList();
+    });
+  });
+  $("onlyNew").addEventListener("change", function (e) { S.onlyNew = e.target.checked; renderList(); });
+  $("hideBatch").addEventListener("change", function (e) { S.hideBatch = e.target.checked; renderHead(); renderLangs(); renderList(); });
+  $("q").addEventListener("input", function (e) { S.q = e.target.value.trim(); renderList(); });
+  $("clear").addEventListener("click", function () {
+    S.lang = ""; S.q = ""; S.onlyNew = false;
+    $("q").value = ""; $("onlyNew").checked = false;
+    renderLangs(); renderList();
+  });
+  window.addEventListener("hashchange", route);
+
+  var foot = $("foot");
+  var src = h("a", { href: "https://github.com/trending?spoken_language_code=zh", target: "_blank", rel: "noopener", text: "GitHub Trending（中文）" });
+  foot.appendChild(document.createTextNode("数据来自 "));
+  foot.appendChild(src);
+  foot.appendChild(document.createTextNode("，只收录 README 为中文的项目。每次更新都会抓取总榜和全部编程语言分榜再合并，因为很多项目只出现在分榜里。增长率 = 本期新增 star ÷ 总 star，越高说明越是新近走红。" +
+    "Trending 不收录很多新项目，所以「新项目」页另外用 GitHub 搜索接口，找近 30 天新建、100 星以上、简介含中文的仓库，日均星 = 总星 ÷ 建库天数。" +
+    "Trending 还会排除一些老项目，所以每天另外扫描全 GitHub 100 星以上的仓库，记录中文项目的星数，算出真实的日、周、月涨星补进榜单（标「Trending 未收录」的就是）。" +
+    "简介写英文的中文项目靠看 README 认出来：README 是中文，或者提供中文版 README 且最近的 issue 多用中文，就算中文项目（标「README 中文」的就是）。新项目榜把简介不是中文的候选全部看一遍；日、周、月榜每天按前一天的涨星挑出最多 300 个来看，认出来的加入全量跟踪。" +
+    "全部由 GitHub Actions 每天自动更新，页面上的日期和时间都是北京时间。"));
+
+  route();
+})();
+</script>
+</body>
+</html>
