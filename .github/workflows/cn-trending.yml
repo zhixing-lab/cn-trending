@@ -1,0 +1,153 @@
+# 每天自动抓取 GitHub 中文热门（日榜 / 周榜 / 月榜 / 新项目榜）：生成网站（GitHub Pages）、存档到仓库，并可推送到群机器人。
+#
+# 仓库里需要这三个文件：
+#   cn_trending.py
+#   site_template.html
+#   .github/workflows/cn-trending.yml（本文件）
+#
+# 开启网站：仓库 Settings → Pages → Build and deployment → Source 选 “Deploy from a branch”，
+#           分支选 main，目录选 /docs，保存。网址是 https://<用户名>.github.io/<仓库名>/
+#
+# 推送（可选）：Settings → Secrets and variables → Actions，新建 secret TRENDING_WEBHOOK，
+#               值填飞书/钉钉/企业微信机器人的 webhook 地址；下面的 TRENDING_WEBHOOK_TYPE 改成对应类型。
+#
+# 分两步跑：
+#   1. trending：日榜、周榜、月榜（抓 Trending 总榜 + 全部语言分榜）和新项目榜，十几分钟，先更新网站。
+#   2. track：全量星数跟踪，扫描全 GitHub 100 星以上的仓库（约 49 万个），算出真实涨星并补进日榜、周榜、月榜，
+#      约 4 小时。历史星数存在 star-history 分支（每次覆盖），其中也存着全部仓库前一天的星数，
+#      第二天用来挑涨星多的英文简介项目，读 README 找出中文项目。
+name: CN Trending
+
+on:
+  schedule:
+    # cron 用的是 UTC 时间：
+    #   "0 16 * * *" = 北京时间 00:00（次日）= 洛杉矶 08:00（冬令时）/ 09:00（夏令时）
+    #   "0 1 * * *"  = 北京时间 09:00
+    # 脚本里的榜单日期、新项目榜的起点、推送日期都按北京时间算
+    - cron: "0 16 * * *"
+  workflow_dispatch:      # 允许在 Actions 页面手动运行
+    inputs:
+      only_track:
+        description: "只跑全量星数跟踪（跳过热门榜和新项目榜）"
+        type: boolean
+        default: false
+      track_min_stars:
+        description: "全量跟踪的星数门槛"
+        default: "100"
+
+permissions:
+  contents: write         # 需要把存档、网站和历史星数提交回仓库
+
+concurrency:
+  group: cn-trending
+  cancel-in-progress: false
+
+env:
+  TZ: Asia/Shanghai       # 下面的 date 命令都按北京时间
+
+jobs:
+  trending:
+    if: ${{ !inputs.only_track }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      TRENDING_WEBHOOK: ${{ secrets.TRENDING_WEBHOOK }}
+      TRENDING_WEBHOOK_TYPE: feishu   # feishu / dingtalk / wecom
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4
+
+      - name: 网站地址（附在推送消息里）
+        run: echo "SITE_URL=https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}/" >> "$GITHUB_ENV"
+
+      - name: 日榜（推送只推新上榜的）
+        run: python cn_trending.py --since daily --only-new --site-dir docs
+
+      - name: 周榜（每天更新网站，周一推送）
+        if: ${{ !cancelled() }}
+        run: |
+          if [ "$(date +%u)" = "1" ]; then PUSH=""; else PUSH="--no-push"; fi
+          python cn_trending.py --since weekly --site-dir docs $PUSH
+
+      - name: 月榜（每天更新网站，每月 1 号推送）
+        if: ${{ !cancelled() }}
+        run: |
+          if [ "$(date +%d)" = "01" ]; then PUSH=""; else PUSH="--no-push"; fi
+          python cn_trending.py --since monthly --site-dir docs $PUSH
+
+      - name: 新项目榜（近 30 天新建，用搜索接口；周一推送）
+        if: ${{ !cancelled() }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}   # 搜索接口带 token 每分钟 30 次，不带只有 10 次
+        run: |
+          if [ "$(date +%u)" = "1" ]; then PUSH=""; else PUSH="--no-push"; fi
+          python cn_trending.py --since new --site-dir docs $PUSH
+
+      - name: 提交存档和网站
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add data docs 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "trending $(date +%F)"
+          git push
+
+  track:
+    needs: trending
+    if: ${{ !cancelled() }}    # 热门榜那步失败或被跳过，也照样跑
+    runs-on: ubuntu-latest
+    timeout-minutes: 350       # GitHub 单个任务最多 360 分钟；脚本自己在 320 分钟时收尾
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main              # 拿到上一步刚提交的榜单
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4
+
+      - name: 取回历史星数
+        run: |
+          mkdir -p history
+          if git fetch --depth=1 origin star-history 2>/dev/null; then
+            git archive FETCH_HEAD | tar -x -C history
+            ls -l history
+          else
+            echo "还没有历史星数，今天开始积累"
+          fi
+
+      - name: 全量星数跟踪（约 4 小时）
+        run: |
+          python cn_trending.py --track --track-min-stars "${{ inputs.track_min_stars || '100' }}" \
+            --history history/history.json --site-dir docs --time-budget 320
+
+      - name: 保存历史星数（star-history 分支，每次覆盖）
+        if: ${{ !cancelled() }}
+        run: |
+          [ -s history/history.json ] || exit 0
+          cd history
+          git init -q -b star-history
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "star history $(date +%F)"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" star-history
+
+      - name: 提交网站
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add data docs 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "tracking $(date +%F)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push && break; sleep 10; done
