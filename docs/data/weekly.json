@@ -1,7 +1,7 @@
 {
  "since": "weekly",
  "date": "2026-11-21",
- "generated_at": "2026-11-20T22:32+00:00",
+ "generated_at": "2026-11-21T03:27+00:00",
  "first_run": false,
  "coverage": {
   "pages": 834,
@@ -11,7 +11,32 @@
   "overall_count": 21,
   "only_in_lang_pages": 51,
   "full_sweep": true,
-  "seconds": 210
+  "seconds": 210,
+  "tracked": {
+   "min_stars": 100,
+   "scanned": 503483,
+   "tracked": 48901,
+   "queries": 6120,
+   "complete": true,
+   "seconds": 16983,
+   "problems": [],
+   "unfinished": 0,
+   "readme": {
+    "checked": 300,
+    "added": 31,
+    "by_issues": 20,
+    "errors": 0,
+    "candidates": 37933,
+    "stopped": "",
+    "min_gain": 59,
+    "total": 51
+   },
+   "days": 3,
+   "need_day": "2026-11-14",
+   "ready": false,
+   "ready_on": "2026-11-26",
+   "added": 0
+  }
  },
  "repos": [
   {
@@ -23,6 +48,9 @@
    "stars": 190214,
    "forks": 13349,
    "period_stars": 1681,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -35,6 +63,9 @@
    "stars": 47269,
    "forks": 3639,
    "period_stars": 485,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -47,6 +78,9 @@
    "stars": 108438,
    "forks": 4594,
    "period_stars": 439,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -59,6 +93,9 @@
    "stars": 29386,
    "forks": 788,
    "period_stars": 335,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -71,6 +108,9 @@
    "stars": 104159,
    "forks": 11235,
    "period_stars": 286,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -83,6 +123,9 @@
    "stars": 9331,
    "forks": 664,
    "period_stars": 260,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -95,6 +138,9 @@
    "stars": 28730,
    "forks": 2048,
    "period_stars": 257,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -107,6 +153,9 @@
    "stars": 48833,
    "forks": 4774,
    "period_stars": 233,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -119,6 +168,9 @@
    "stars": 32264,
    "forks": 2136,
    "period_stars": 199,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -131,6 +183,9 @@
    "stars": 7564,
    "forks": 329,
    "period_stars": 190,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -143,6 +198,9 @@
    "stars": 19118,
    "forks": 1714,
    "period_stars": 175,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -155,6 +213,9 @@
    "stars": 30097,
    "forks": 5567,
    "period_stars": 163,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -167,6 +228,9 @@
    "stars": 27136,
    "forks": 666,
    "period_stars": 155,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -179,6 +243,9 @@
    "stars": 24678,
    "forks": 2960,
    "period_stars": 150,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -191,6 +258,9 @@
    "stars": 23070,
    "forks": 2001,
    "period_stars": 147,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -203,6 +273,9 @@
    "stars": 48023,
    "forks": 10441,
    "period_stars": 142,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -215,6 +288,9 @@
    "stars": 8767,
    "forks": 1738,
    "period_stars": 139,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -227,6 +303,9 @@
    "stars": 20293,
    "forks": 1203,
    "period_stars": 137,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -239,6 +318,9 @@
    "stars": 82621,
    "forks": 12486,
    "period_stars": 129,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -251,6 +333,9 @@
    "stars": 40360,
    "forks": 10312,
    "period_stars": 120,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -263,6 +348,9 @@
    "stars": 17588,
    "forks": 2892,
    "period_stars": 116,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -275,6 +363,9 @@
    "stars": 14244,
    "forks": 1190,
    "period_stars": 109,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -287,6 +378,9 @@
    "stars": 48549,
    "forks": 16217,
    "period_stars": 95,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -299,6 +393,9 @@
    "stars": 28916,
    "forks": 4230,
    "period_stars": 94,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -311,6 +408,9 @@
    "stars": 19855,
    "forks": 1169,
    "period_stars": 92,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -323,6 +423,9 @@
    "stars": 9116,
    "forks": 1692,
    "period_stars": 88,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -335,6 +438,9 @@
    "stars": 24537,
    "forks": 2789,
    "period_stars": 84,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -347,6 +453,9 @@
    "stars": 30344,
    "forks": 2773,
    "period_stars": 81,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -359,6 +468,9 @@
    "stars": 13011,
    "forks": 1700,
    "period_stars": 78,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -371,6 +483,9 @@
    "stars": 8249,
    "forks": 2737,
    "period_stars": 73,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -383,6 +498,9 @@
    "stars": 27208,
    "forks": 4707,
    "period_stars": 70,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -395,6 +513,9 @@
    "stars": 6019,
    "forks": 334,
    "period_stars": 64,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -407,6 +528,9 @@
    "stars": 11554,
    "forks": 983,
    "period_stars": 63,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -419,6 +543,9 @@
    "stars": 8584,
    "forks": 779,
    "period_stars": 62,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -431,6 +558,9 @@
    "stars": 5986,
    "forks": 726,
    "period_stars": 60,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -443,6 +573,9 @@
    "stars": 1333,
    "forks": 116,
    "period_stars": 56,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -455,6 +588,9 @@
    "stars": 10692,
    "forks": 413,
    "period_stars": 52,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -467,6 +603,9 @@
    "stars": 19964,
    "forks": 3112,
    "period_stars": 47,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -479,6 +618,9 @@
    "stars": 7677,
    "forks": 230,
    "period_stars": 44,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -491,6 +633,9 @@
    "stars": 37259,
    "forks": 6584,
    "period_stars": 42,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -503,6 +648,9 @@
    "stars": 9803,
    "forks": 1401,
    "period_stars": 40,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -515,6 +663,9 @@
    "stars": 18194,
    "forks": 2520,
    "period_stars": 37,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -527,6 +678,9 @@
    "stars": 8759,
    "forks": 1189,
    "period_stars": 36,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -539,6 +693,9 @@
    "stars": 5727,
    "forks": 299,
    "period_stars": 35,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -551,6 +708,9 @@
    "stars": 9103,
    "forks": 898,
    "period_stars": 34,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -563,6 +723,9 @@
    "stars": 20113,
    "forks": 3231,
    "period_stars": 34,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -575,6 +738,9 @@
    "stars": 13507,
    "forks": 1800,
    "period_stars": 31,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -587,6 +753,9 @@
    "stars": 3790,
    "forks": 475,
    "period_stars": 30,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -599,6 +768,9 @@
    "stars": 14808,
    "forks": 1965,
    "period_stars": 29,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -611,6 +783,9 @@
    "stars": 8395,
    "forks": 749,
    "period_stars": 29,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -623,6 +798,9 @@
    "stars": 7454,
    "forks": 536,
    "period_stars": 29,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -635,6 +813,9 @@
    "stars": 5928,
    "forks": 1141,
    "period_stars": 28,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -647,6 +828,9 @@
    "stars": 13644,
    "forks": 2373,
    "period_stars": 28,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -659,6 +843,9 @@
    "stars": 7908,
    "forks": 837,
    "period_stars": 28,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -671,6 +858,9 @@
    "stars": 9344,
    "forks": 52762,
    "period_stars": 27,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 2
   },
@@ -683,6 +873,9 @@
    "stars": 4233,
    "forks": 190,
    "period_stars": 26,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -695,6 +888,9 @@
    "stars": 3145,
    "forks": 245,
    "period_stars": 26,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -707,6 +903,9 @@
    "stars": 11433,
    "forks": 1256,
    "period_stars": 20,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -719,6 +918,9 @@
    "stars": 31722,
    "forks": 3265,
    "period_stars": 20,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -731,6 +933,9 @@
    "stars": 2885,
    "forks": 827,
    "period_stars": 19,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -743,6 +948,9 @@
    "stars": 31624,
    "forks": 19025,
    "period_stars": 18,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -755,6 +963,9 @@
    "stars": 11922,
    "forks": 14645,
    "period_stars": 17,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -767,6 +978,9 @@
    "stars": 12258,
    "forks": 841,
    "period_stars": 16,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -779,6 +993,9 @@
    "stars": 11561,
    "forks": 1306,
    "period_stars": 15,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -791,6 +1008,9 @@
    "stars": 1725,
    "forks": 168,
    "period_stars": 11,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -803,6 +1023,9 @@
    "stars": 8616,
    "forks": 1924,
    "period_stars": 11,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -815,6 +1038,9 @@
    "stars": 667,
    "forks": 51,
    "period_stars": 9,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -827,6 +1053,9 @@
    "stars": 1885,
    "forks": 85,
    "period_stars": 8,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -839,6 +1068,9 @@
    "stars": 3293,
    "forks": 1722,
    "period_stars": 8,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 2
   },
@@ -851,6 +1083,9 @@
    "stars": 9007,
    "forks": 1894,
    "period_stars": 6,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -863,6 +1098,9 @@
    "stars": 1642,
    "forks": 339,
    "period_stars": 5,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -875,6 +1113,9 @@
    "stars": 6357,
    "forks": 943,
    "period_stars": 4,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   }
