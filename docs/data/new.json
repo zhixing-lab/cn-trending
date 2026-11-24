@@ -622,7 +622,8 @@
    "pending": 0,
    "stopped": ""
   },
-  "seconds": 506
+  "seconds": 506,
+  "readme_added": 1
  },
  "repos": [
   {
@@ -805,6 +806,23 @@
    "batch": false,
    "is_new": false,
    "days": 7
+  },
+  {
+   "repo": "zxsos/HGhubX",
+   "url": "https://github.com/zxsos/HGhubX",
+   "desc": "Cross-platform short-drama client built with Tauri 2, React and Rust.",
+   "language": "TypeScript",
+   "lang_color": "#3178c6",
+   "stars": 5401,
+   "forks": 3114,
+   "period_stars": 5401,
+   "created": "2026-11-09",
+   "age_days": 14.8,
+   "per_day": 365.4,
+   "batch": false,
+   "readme_zh": true,
+   "is_new": false,
+   "days": 4
   },
   {
    "repo": "designfuchen/word-atlas",
