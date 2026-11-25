@@ -1,7 +1,7 @@
 {
  "since": "weekly",
- "date": "2026-11-24",
- "generated_at": "2026-11-24T08:08+00:00",
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T00:18+00:00",
  "first_run": false,
  "coverage": {
   "pages": 834,
@@ -9,34 +9,9 @@
   "failed": [],
   "nonempty_lang_pages": 17,
   "overall_count": 21,
-  "only_in_lang_pages": 51,
+  "only_in_lang_pages": 50,
   "full_sweep": true,
-  "seconds": 211,
-  "tracked": {
-   "min_stars": 100,
-   "scanned": 504574,
-   "tracked": 49064,
-   "queries": 6128,
-   "complete": true,
-   "seconds": 18451,
-   "problems": [],
-   "unfinished": 0,
-   "readme": {
-    "checked": 300,
-    "added": 40,
-    "by_issues": 21,
-    "errors": 0,
-    "candidates": 43771,
-    "stopped": "",
-    "min_gain": 59,
-    "total": 106
-   },
-   "days": 6,
-   "need_day": "2026-11-17",
-   "ready": false,
-   "ready_on": "2026-11-26",
-   "added": 0
-  }
+  "seconds": 212
  },
  "repos": [
   {
@@ -45,44 +20,11 @@
    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
    "lang_color": "#3572A5",
-   "stars": 190817,
-   "forks": 13374,
-   "period_stars": 1564,
-   "src": [
-    "trending"
-   ],
+   "stars": 191019,
+   "forks": 13382,
+   "period_stars": 1551,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "ruanyf/weekly",
-   "url": "https://github.com/ruanyf/weekly",
-   "desc": "科技爱好者周刊，每周五发布",
-   "language": "",
-   "lang_color": "",
-   "stars": 108614,
-   "forks": 4587,
-   "period_stars": 472,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "AstrBotDevs/AstrBot",
-   "url": "https://github.com/AstrBotDevs/AstrBot",
-   "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-   "language": "Python",
-   "lang_color": "#3572A5",
-   "stars": 47406,
-   "forks": 3663,
-   "period_stars": 406,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "aoaostar/legado",
@@ -90,14 +32,35 @@
    "desc": "阅读APP书源",
    "language": "HTML",
    "lang_color": "#e34c26",
-   "stars": 7839,
-   "forks": 340,
-   "period_stars": 353,
-   "src": [
-    "trending"
-   ],
+   "stars": 7909,
+   "forks": 348,
+   "period_stars": 459,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "ruanyf/weekly",
+   "url": "https://github.com/ruanyf/weekly",
+   "desc": "科技爱好者周刊，每周五发布",
+   "language": "",
+   "lang_color": "",
+   "stars": 108667,
+   "forks": 4591,
+   "period_stars": 450,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "AstrBotDevs/AstrBot",
+   "url": "https://github.com/AstrBotDevs/AstrBot",
+   "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+   "language": "Python",
+   "lang_color": "#3572A5",
+   "stars": 47452,
+   "forks": 3668,
+   "period_stars": 388,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "xiaojieonly/Ehviewer_CN_SXJ",
@@ -105,14 +68,11 @@
    "desc": "ehviewer，用爱发电，快乐前行",
    "language": "C",
    "lang_color": "#555555",
-   "stars": 29514,
-   "forks": 790,
-   "period_stars": 327,
-   "src": [
-    "trending"
-   ],
+   "stars": 29551,
+   "forks": 791,
+   "period_stars": 317,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "maotoumao/MusicFree",
@@ -120,29 +80,11 @@
    "desc": "插件化、定制化、无广告的免费音乐播放器",
    "language": "TypeScript",
    "lang_color": "#3178c6",
-   "stars": 28810,
-   "forks": 2055,
-   "period_stars": 230,
-   "src": [
-    "trending"
-   ],
+   "stars": 28835,
+   "forks": 2056,
+   "period_stars": 222,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "Anduin2017/HowToCook",
-   "url": "https://github.com/Anduin2017/HowToCook",
-   "desc": "Programmer's guide about how to cook at home.",
-   "language": "",
-   "lang_color": "",
-   "stars": 104214,
-   "forks": 11231,
-   "period_stars": 207,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "XIU2/CloudflareSpeedTest",
@@ -150,14 +92,11 @@
    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
    "language": "Go",
    "lang_color": "#00ADD8",
-   "stars": 30187,
-   "forks": 5574,
-   "period_stars": 203,
-   "src": [
-    "trending"
-   ],
+   "stars": 30222,
+   "forks": 5575,
+   "period_stars": 219,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "hiroi-sora/Umi-OCR",
@@ -165,29 +104,23 @@
    "desc": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
    "language": "Python",
    "lang_color": "#3572A5",
-   "stars": 48906,
-   "forks": 4779,
-   "period_stars": 195,
-   "src": [
-    "trending"
-   ],
+   "stars": 48947,
+   "forks": 4785,
+   "period_stars": 218,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "ScottSloan/Bili23-Downloader",
-   "url": "https://github.com/ScottSloan/Bili23-Downloader",
-   "desc": "开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.",
-   "language": "Python",
-   "lang_color": "#3572A5",
-   "stars": 9397,
-   "forks": 670,
-   "period_stars": 177,
-   "src": [
-    "trending"
-   ],
+   "repo": "Anduin2017/HowToCook",
+   "url": "https://github.com/Anduin2017/HowToCook",
+   "desc": "Programmer's guide about how to cook at home.",
+   "language": "",
+   "lang_color": "",
+   "stars": 104247,
+   "forks": 11233,
+   "period_stars": 213,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
@@ -195,14 +128,11 @@
    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
    "language": "",
    "lang_color": "",
-   "stars": 32317,
+   "stars": 32337,
    "forks": 2137,
-   "period_stars": 176,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 184,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "xifangczy/cat-catch",
@@ -210,44 +140,11 @@
    "desc": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 23149,
-   "forks": 2005,
-   "period_stars": 172,
-   "src": [
-    "trending"
-   ],
+   "stars": 23167,
+   "forks": 2008,
+   "period_stars": 179,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "sngyai/Sequoia-X",
-   "url": "https://github.com/sngyai/Sequoia-X",
-   "desc": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-   "language": "Python",
-   "lang_color": "#3572A5",
-   "stars": 8828,
-   "forks": 1745,
-   "period_stars": 168,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "MaaAssistantArknights/MaaAssistantArknights",
-   "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-   "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-   "language": "C++",
-   "lang_color": "#f34b7d",
-   "stars": 24750,
-   "forks": 2973,
-   "period_stars": 162,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "d2l-ai/d2l-zh",
@@ -255,14 +152,47 @@
    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
    "language": "Python",
    "lang_color": "#3572A5",
-   "stars": 82687,
-   "forks": 12480,
-   "period_stars": 157,
-   "src": [
-    "trending"
-   ],
+   "stars": 82710,
+   "forks": 12481,
+   "period_stars": 171,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "sngyai/Sequoia-X",
+   "url": "https://github.com/sngyai/Sequoia-X",
+   "desc": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+   "language": "Python",
+   "lang_color": "#3572A5",
+   "stars": 8850,
+   "forks": 1746,
+   "period_stars": 165,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "ScottSloan/Bili23-Downloader",
+   "url": "https://github.com/ScottSloan/Bili23-Downloader",
+   "desc": "开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.",
+   "language": "Python",
+   "lang_color": "#3572A5",
+   "stars": 9411,
+   "forks": 671,
+   "period_stars": 162,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "MaaAssistantArknights/MaaAssistantArknights",
+   "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+   "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+   "language": "C++",
+   "lang_color": "#f34b7d",
+   "stars": 24758,
+   "forks": 2976,
+   "period_stars": 149,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "JoeanAmier/TikTokDownloader",
@@ -270,14 +200,11 @@
    "desc": "抖音 / TikTok 平台作品下载/数据采集工具",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 17660,
-   "forks": 2894,
-   "period_stars": 145,
-   "src": [
-    "trending"
-   ],
+   "stars": 17676,
+   "forks": 2898,
+   "period_stars": 146,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "langbot-app/LangBot",
@@ -285,14 +212,11 @@
    "desc": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Kimi, openclaw / hermes agent, deerflow",
    "language": "Python",
    "lang_color": "#3572A5",
-   "stars": 19172,
+   "stars": 19189,
    "forks": 1723,
-   "period_stars": 144,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 142,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "iDvel/rime-ice",
@@ -300,14 +224,11 @@
    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
    "language": "Lua",
    "lang_color": "#000080",
-   "stars": 20344,
-   "forks": 1205,
-   "period_stars": 135,
-   "src": [
-    "trending"
-   ],
+   "stars": 20370,
+   "forks": 1204,
+   "period_stars": 142,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "zhayujie/CowAgent",
@@ -315,44 +236,11 @@
    "desc": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
    "language": "Python",
    "lang_color": "#3572A5",
-   "stars": 48054,
+   "stars": 48064,
    "forks": 10446,
-   "period_stars": 134,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 124,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "lxgw/LxgwWenKai",
-   "url": "https://github.com/lxgw/LxgwWenKai",
-   "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
-   "language": "Python",
-   "lang_color": "#3572A5",
-   "stars": 27184,
-   "forks": 667,
-   "period_stars": 126,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "fanmingming/live",
-   "url": "https://github.com/fanmingming/live",
-   "desc": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
-   "language": "JavaScript",
-   "lang_color": "#f1e05a",
-   "stars": 28957,
-   "forks": 4233,
-   "period_stars": 114,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "jeecgboot/JeecgBoot",
@@ -360,29 +248,35 @@
    "desc": "一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型",
    "language": "Java",
    "lang_color": "#b07219",
-   "stars": 48598,
+   "stars": 48611,
    "forks": 16217,
-   "period_stars": 111,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 122,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "halo-dev/halo",
-   "url": "https://github.com/halo-dev/halo",
-   "desc": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
-   "language": "Java",
-   "lang_color": "#b07219",
-   "stars": 40384,
-   "forks": 10315,
-   "period_stars": 108,
-   "src": [
-    "trending"
-   ],
+   "repo": "lxgw/LxgwWenKai",
+   "url": "https://github.com/lxgw/LxgwWenKai",
+   "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
+   "language": "Python",
+   "lang_color": "#3572A5",
+   "stars": 27191,
+   "forks": 667,
+   "period_stars": 119,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "fanmingming/live",
+   "url": "https://github.com/fanmingming/live",
+   "desc": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
+   "language": "JavaScript",
+   "lang_color": "#f1e05a",
+   "stars": 28969,
+   "forks": 4236,
+   "period_stars": 115,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "wanglin2/mind-map",
@@ -390,14 +284,11 @@
    "desc": "SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 13048,
+   "stars": 13057,
    "forks": 1701,
    "period_stars": 96,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "HIllya51/LunaTranslator",
@@ -405,29 +296,11 @@
    "desc": "视觉小说翻译器 / Visual Novel Translator",
    "language": "C++",
    "lang_color": "#f34b7d",
-   "stars": 14274,
-   "forks": 1192,
-   "period_stars": 90,
-   "src": [
-    "trending"
-   ],
+   "stars": 14285,
+   "forks": 1193,
+   "period_stars": 93,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "Rockyzsu/stock",
-   "url": "https://github.com/Rockyzsu/stock",
-   "desc": "30天掌握量化交易 (持续更新)",
-   "language": "Python",
-   "lang_color": "#3572A5",
-   "stars": 9138,
-   "forks": 1692,
-   "period_stars": 88,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "jaywcjlove/linux-command",
@@ -435,14 +308,23 @@
    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。 https://git.io/linux",
    "language": "Markdown",
    "lang_color": "#083fa1",
-   "stars": 37301,
+   "stars": 37309,
    "forks": 6584,
-   "period_stars": 78,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 89,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "halo-dev/halo",
+   "url": "https://github.com/halo-dev/halo",
+   "desc": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
+   "language": "Java",
+   "lang_color": "#b07219",
+   "stars": 40392,
+   "forks": 10317,
+   "period_stars": 87,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "timqian/chinese-independent-blogs",
@@ -450,29 +332,23 @@
    "desc": "中文独立博客列表",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 24569,
-   "forks": 2793,
-   "period_stars": 72,
-   "src": [
-    "trending"
-   ],
+   "stars": 24578,
+   "forks": 2792,
+   "period_stars": 78,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "immersive-translate/immersive-translate",
-   "url": "https://github.com/immersive-translate/immersive-translate",
-   "desc": "沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension",
-   "language": "",
-   "lang_color": "",
-   "stars": 19877,
-   "forks": 1170,
-   "period_stars": 71,
-   "src": [
-    "trending"
-   ],
+   "repo": "Rockyzsu/stock",
+   "url": "https://github.com/Rockyzsu/stock",
+   "desc": "30天掌握量化交易 (持续更新)",
+   "language": "Python",
+   "lang_color": "#3572A5",
+   "stars": 9142,
+   "forks": 1692,
+   "period_stars": 75,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "521xueweihan/GitHub520",
@@ -480,44 +356,11 @@
    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
    "language": "Python",
    "lang_color": "#3572A5",
-   "stars": 30366,
+   "stars": 30368,
    "forks": 2772,
-   "period_stars": 66,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 68,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "qjfoidnh/BaiduPCS-Go",
-   "url": "https://github.com/qjfoidnh/BaiduPCS-Go",
-   "desc": "iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能",
-   "language": "Go",
-   "lang_color": "#00ADD8",
-   "stars": 6008,
-   "forks": 726,
-   "period_stars": 64,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "gaotianliuyun/gao",
-   "url": "https://github.com/gaotianliuyun/gao",
-   "desc": "FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-   "language": "JavaScript",
-   "lang_color": "#f1e05a",
-   "stars": 8271,
-   "forks": 2741,
-   "period_stars": 64,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "RapidAI/RapidOCR",
@@ -525,29 +368,23 @@
    "desc": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
    "language": "Python",
    "lang_color": "#3572A5",
-   "stars": 8608,
-   "forks": 784,
-   "period_stars": 61,
-   "src": [
-    "trending"
-   ],
+   "stars": 8619,
+   "forks": 785,
+   "period_stars": 65,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "knownsec/404StarLink",
-   "url": "https://github.com/knownsec/404StarLink",
-   "desc": "404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目",
+   "repo": "immersive-translate/immersive-translate",
+   "url": "https://github.com/immersive-translate/immersive-translate",
+   "desc": "沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension",
    "language": "",
    "lang_color": "",
-   "stars": 11573,
-   "forks": 984,
-   "period_stars": 59,
-   "src": [
-    "trending"
-   ],
+   "stars": 19876,
+   "forks": 1170,
+   "period_stars": 63,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "higress-group/higress",
@@ -555,74 +392,35 @@
    "desc": "🤖 AI Gateway | AI Native API Gateway",
    "language": "Go",
    "lang_color": "#00ADD8",
-   "stars": 9827,
-   "forks": 1403,
-   "period_stars": 55,
-   "src": [
-    "trending"
-   ],
+   "stars": 9836,
+   "forks": 1405,
+   "period_stars": 63,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "OI-wiki/OI-wiki",
-   "url": "https://github.com/OI-wiki/OI-wiki",
-   "desc": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
-   "language": "TypeScript",
-   "lang_color": "#3178c6",
-   "stars": 27223,
-   "forks": 4706,
-   "period_stars": 55,
-   "src": [
-    "trending"
-   ],
+   "repo": "gaotianliuyun/gao",
+   "url": "https://github.com/gaotianliuyun/gao",
+   "desc": "FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+   "language": "JavaScript",
+   "lang_color": "#f1e05a",
+   "stars": 8280,
+   "forks": 2742,
+   "period_stars": 62,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "lizhipay/acg-faka",
-   "url": "https://github.com/lizhipay/acg-faka",
-   "desc": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
-   "language": "PHP",
-   "lang_color": "#4F5D95",
-   "stars": 5963,
-   "forks": 1146,
-   "period_stars": 54,
-   "src": [
-    "trending"
-   ],
+   "repo": "qjfoidnh/BaiduPCS-Go",
+   "url": "https://github.com/qjfoidnh/BaiduPCS-Go",
+   "desc": "iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能",
+   "language": "Go",
+   "lang_color": "#00ADD8",
+   "stars": 6015,
+   "forks": 725,
+   "period_stars": 57,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "auto-novel/auto-novel",
-   "url": "https://github.com/auto-novel/auto-novel",
-   "desc": "轻小说机翻网站，支持网络小说/文库小说/本地小说",
-   "language": "TypeScript",
-   "lang_color": "#3178c6",
-   "stars": 1351,
-   "forks": 116,
-   "period_stars": 53,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "cxasm/notepad--",
-   "url": "https://github.com/cxasm/notepad--",
-   "desc": "一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。",
-   "language": "C++",
-   "lang_color": "#f34b7d",
-   "stars": 10708,
-   "forks": 413,
-   "period_stars": 51,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "xushengfeng/eSearch",
@@ -630,14 +428,47 @@
    "desc": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator 支持Windows Linux macOS",
    "language": "TypeScript",
    "lang_color": "#3178c6",
-   "stars": 7473,
+   "stars": 7482,
    "forks": 536,
-   "period_stars": 48,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 55,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "lizhipay/acg-faka",
+   "url": "https://github.com/lizhipay/acg-faka",
+   "desc": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+   "language": "PHP",
+   "lang_color": "#4F5D95",
+   "stars": 5967,
+   "forks": 1146,
+   "period_stars": 54,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "auto-novel/auto-novel",
+   "url": "https://github.com/auto-novel/auto-novel",
+   "desc": "轻小说机翻网站，支持网络小说/文库小说/本地小说",
+   "language": "TypeScript",
+   "lang_color": "#3178c6",
+   "stars": 1354,
+   "forks": 117,
+   "period_stars": 49,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "OI-wiki/OI-wiki",
+   "url": "https://github.com/OI-wiki/OI-wiki",
+   "desc": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+   "language": "TypeScript",
+   "lang_color": "#3178c6",
+   "stars": 27229,
+   "forks": 4705,
+   "period_stars": 46,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "Moriafly/SaltPlayerSource",
@@ -645,29 +476,11 @@
    "desc": "A multi-platform local music player in continuous development since 2020, serving over one million users. This repository is used for issue tracking and official Android package releases.",
    "language": "",
    "lang_color": "",
-   "stars": 7692,
+   "stars": 7696,
    "forks": 230,
    "period_stars": 44,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "xfangfang/wiliwili",
-   "url": "https://github.com/xfangfang/wiliwili",
-   "desc": "第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上",
-   "language": "C++",
-   "lang_color": "#f34b7d",
-   "stars": 5742,
-   "forks": 299,
-   "period_stars": 42,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "Infrasys-AI/AISystem",
@@ -675,14 +488,23 @@
    "desc": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
    "language": "Jupyter Notebook",
    "lang_color": "#DA5B0B",
-   "stars": 18207,
+   "stars": 18211,
    "forks": 2521,
-   "period_stars": 41,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 44,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "cxasm/notepad--",
+   "url": "https://github.com/cxasm/notepad--",
+   "desc": "一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。",
+   "language": "C++",
+   "lang_color": "#f34b7d",
+   "stars": 10712,
+   "forks": 414,
+   "period_stars": 43,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "fmz200/wool_scripts",
@@ -690,29 +512,23 @@
    "desc": "收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。",
    "language": "Vim Snippet",
    "lang_color": "#199f4b",
-   "stars": 6031,
-   "forks": 336,
-   "period_stars": 39,
-   "src": [
-    "trending"
-   ],
+   "stars": 6040,
+   "forks": 338,
+   "period_stars": 42,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "nilaoda/N_m3u8DL-RE",
-   "url": "https://github.com/nilaoda/N_m3u8DL-RE",
-   "desc": "Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.",
-   "language": "C#",
-   "lang_color": "#7355dd",
-   "stars": 9122,
-   "forks": 897,
-   "period_stars": 39,
-   "src": [
-    "trending"
-   ],
+   "repo": "xfangfang/wiliwili",
+   "url": "https://github.com/xfangfang/wiliwili",
+   "desc": "第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上",
+   "language": "C++",
+   "lang_color": "#f34b7d",
+   "stars": 5747,
+   "forks": 300,
+   "period_stars": 42,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "pymumu/smartdns",
@@ -720,14 +536,23 @@
    "desc": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
    "language": "C",
    "lang_color": "#555555",
-   "stars": 11451,
+   "stars": 11455,
    "forks": 1252,
-   "period_stars": 38,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 39,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "nilaoda/N_m3u8DL-RE",
+   "url": "https://github.com/nilaoda/N_m3u8DL-RE",
+   "desc": "Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.",
+   "language": "C#",
+   "lang_color": "#7355dd",
+   "stars": 9120,
+   "forks": 898,
+   "period_stars": 36,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "lionsoul2014/ip2region",
@@ -735,29 +560,11 @@
    "desc": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
    "language": "Go",
    "lang_color": "#00ADD8",
-   "stars": 19973,
+   "stars": 19977,
    "forks": 3113,
-   "period_stars": 33,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 32,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "xszyou/Fay",
-   "url": "https://github.com/xszyou/Fay",
-   "desc": "fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。",
-   "language": "Python",
-   "lang_color": "#3572A5",
-   "stars": 13653,
-   "forks": 2373,
-   "period_stars": 31,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "shadow1ng/fscan",
@@ -765,59 +572,23 @@
    "desc": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)",
    "language": "Go",
    "lang_color": "#00ADD8",
-   "stars": 14817,
+   "stars": 14820,
    "forks": 1965,
-   "period_stars": 30,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "gdy666/lucky",
-   "url": "https://github.com/gdy666/lucky",
-   "desc": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
-   "language": "Go",
-   "lang_color": "#00ADD8",
-   "stars": 8400,
-   "forks": 749,
    "period_stars": 29,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "jitwxs/163MusicLyrics",
-   "url": "https://github.com/jitwxs/163MusicLyrics",
-   "desc": "云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】",
-   "language": "C#",
-   "lang_color": "#7355dd",
-   "stars": 4240,
-   "forks": 191,
-   "period_stars": 27,
-   "src": [
-    "trending"
-   ],
+   "repo": "dromara/RuoYi-Vue-Plus",
+   "url": "https://github.com/dromara/RuoYi-Vue-Plus",
+   "desc": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
+   "language": "Java",
+   "lang_color": "#b07219",
+   "stars": 2899,
+   "forks": 829,
+   "period_stars": 29,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "ccfos/nightingale",
-   "url": "https://github.com/ccfos/nightingale",
-   "desc": "Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.",
-   "language": "Go",
-   "lang_color": "#00ADD8",
-   "stars": 13517,
-   "forks": 1802,
-   "period_stars": 27,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "rebase-network/who-is-hiring",
@@ -825,14 +596,47 @@
    "desc": "这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！",
    "language": "HTML",
    "lang_color": "#e34c26",
-   "stars": 1900,
+   "stars": 1901,
    "forks": 85,
-   "period_stars": 27,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 28,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "ccfos/nightingale",
+   "url": "https://github.com/ccfos/nightingale",
+   "desc": "Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.",
+   "language": "Go",
+   "lang_color": "#00ADD8",
+   "stars": 13519,
+   "forks": 1803,
+   "period_stars": 27,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "gdy666/lucky",
+   "url": "https://github.com/gdy666/lucky",
+   "desc": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
+   "language": "Go",
+   "lang_color": "#00ADD8",
+   "stars": 8403,
+   "forks": 749,
+   "period_stars": 26,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "xszyou/Fay",
+   "url": "https://github.com/xszyou/Fay",
+   "desc": "fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。",
+   "language": "Python",
+   "lang_color": "#3572A5",
+   "stars": 13655,
+   "forks": 2374,
+   "period_stars": 25,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "firerpa/lamda",
@@ -842,72 +646,21 @@
    "lang_color": "#3572A5",
    "stars": 8766,
    "forks": 1190,
-   "period_stars": 27,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "dromara/RuoYi-Vue-Plus",
-   "url": "https://github.com/dromara/RuoYi-Vue-Plus",
-   "desc": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
-   "language": "Java",
-   "lang_color": "#b07219",
-   "stars": 2894,
-   "forks": 827,
    "period_stars": 25,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
-   "repo": "smallfawn/QLScriptPublic",
-   "url": "https://github.com/smallfawn/QLScriptPublic",
-   "desc": "青龙面板脚本公共仓库 企鹅交流1021185005",
-   "language": "JavaScript",
-   "lang_color": "#f1e05a",
-   "stars": 3798,
-   "forks": 474,
-   "period_stars": 23,
-   "src": [
-    "trending"
-   ],
+   "repo": "jitwxs/163MusicLyrics",
+   "url": "https://github.com/jitwxs/163MusicLyrics",
+   "desc": "云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】",
+   "language": "C#",
+   "lang_color": "#7355dd",
+   "stars": 4240,
+   "forks": 191,
+   "period_stars": 24,
    "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "hanxinhao000/ZeroTermux",
-   "url": "https://github.com/hanxinhao000/ZeroTermux",
-   "desc": "",
-   "language": "Java",
-   "lang_color": "#b07219",
-   "stars": 3153,
-   "forks": 244,
-   "period_stars": 21,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "Semporia/TikTok-Unlock",
-   "url": "https://github.com/Semporia/TikTok-Unlock",
-   "desc": "TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！",
-   "language": "JavaScript",
-   "lang_color": "#f1e05a",
-   "stars": 12264,
-   "forks": 841,
-   "period_stars": 21,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "whyour/qinglong",
@@ -915,14 +668,47 @@
    "desc": "支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 20112,
-   "forks": 3232,
-   "period_stars": 20,
-   "src": [
-    "trending"
-   ],
+   "stars": 20114,
+   "forks": 3231,
+   "period_stars": 23,
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "smallfawn/QLScriptPublic",
+   "url": "https://github.com/smallfawn/QLScriptPublic",
+   "desc": "青龙面板脚本公共仓库 企鹅交流1021185005",
+   "language": "JavaScript",
+   "lang_color": "#f1e05a",
+   "stars": 3800,
+   "forks": 474,
+   "period_stars": 22,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "Semporia/TikTok-Unlock",
+   "url": "https://github.com/Semporia/TikTok-Unlock",
+   "desc": "TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！",
+   "language": "JavaScript",
+   "lang_color": "#f1e05a",
+   "stars": 12262,
+   "forks": 841,
+   "period_stars": 21,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "hanxinhao000/ZeroTermux",
+   "url": "https://github.com/hanxinhao000/ZeroTermux",
+   "desc": "",
+   "language": "Java",
+   "lang_color": "#b07219",
+   "stars": 3154,
+   "forks": 244,
+   "period_stars": 20,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "zizifn/edgetunnel",
@@ -930,29 +716,11 @@
    "desc": "Running V2ray inside edge/serverless runtime",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 9350,
-   "forks": 52881,
+   "stars": 9351,
+   "forks": 52899,
    "period_stars": 18,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 5
-  },
-  {
-   "repo": "ascoders/weekly",
-   "url": "https://github.com/ascoders/weekly",
-   "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
-   "language": "JavaScript",
-   "lang_color": "#f1e05a",
-   "stars": 31724,
-   "forks": 3265,
-   "period_stars": 18,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
+   "days": 6
   },
   {
    "repo": "yaklang/yakit",
@@ -960,14 +728,11 @@
    "desc": "Cyber Security ALL-IN-ONE Platform",
    "language": "TypeScript",
    "lang_color": "#3178c6",
-   "stars": 7908,
-   "forks": 838,
+   "stars": 7911,
+   "forks": 841,
    "period_stars": 17,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "notionnext-org/NotionNext",
@@ -975,14 +740,11 @@
    "desc": "Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 11923,
-   "forks": 14638,
+   "stars": 11925,
+   "forks": 14641,
    "period_stars": 14,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "coolsnowwolf/lede",
@@ -990,14 +752,23 @@
    "desc": "Lean's LEDE source",
    "language": "C",
    "lang_color": "#555555",
-   "stars": 31625,
-   "forks": 19013,
+   "stars": 31624,
+   "forks": 19012,
    "period_stars": 13,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
+  },
+  {
+   "repo": "ascoders/weekly",
+   "url": "https://github.com/ascoders/weekly",
+   "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+   "language": "JavaScript",
+   "lang_color": "#f1e05a",
+   "stars": 31725,
+   "forks": 3265,
+   "period_stars": 13,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "wangrongding/wechat-bot",
@@ -1005,14 +776,11 @@
    "desc": "🤖 Multi-platform IM AI Agent for Telegram, WhatsApp, Lark, and WeChat. Connects ChatGPT / Claude / Kimi / DeepSeek / Ollama / Pi for auto-replies, community analysis, contact management, and inactive-friend detection.",
    "language": "JavaScript",
    "lang_color": "#f1e05a",
-   "stars": 11566,
+   "stars": 11568,
    "forks": 1308,
    "period_stars": 12,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "digoal/blog",
@@ -1022,12 +790,9 @@
    "lang_color": "#e34c26",
    "stars": 8617,
    "forks": 1924,
-   "period_stars": 10,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 9,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "glKarin/com.n0n3m4.diii4a",
@@ -1035,14 +800,11 @@
    "desc": "DOOM III/Quake 4/Prey(2006)/ETQW GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/Skin Deep/Quadrilateral Cowboy/Icarus Starship Command Simulator on Android",
    "language": "C++",
    "lang_color": "#f34b7d",
-   "stars": 670,
+   "stars": 671,
    "forks": 50,
-   "period_stars": 8,
-   "src": [
-    "trending"
-   ],
+   "period_stars": 7,
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "yangzongzhuan/RuoYi-Vue",
@@ -1051,13 +813,34 @@
    "language": "Java",
    "lang_color": "#b07219",
    "stars": 3295,
-   "forks": 1722,
-   "period_stars": 8,
-   "src": [
-    "trending"
-   ],
+   "forks": 1723,
+   "period_stars": 7,
    "is_new": false,
-   "days": 5
+   "days": 6
+  },
+  {
+   "repo": "zotero-chinese/styles",
+   "url": "https://github.com/zotero-chinese/styles",
+   "desc": "中文 CSL 样式 - Zotero 中文社区",
+   "language": "XML",
+   "lang_color": "#0060ac",
+   "stars": 6358,
+   "forks": 943,
+   "period_stars": 5,
+   "is_new": false,
+   "days": 8
+  },
+  {
+   "repo": "qd-today/templates",
+   "url": "https://github.com/qd-today/templates",
+   "desc": "基于开源新版 QD 框架站发布的公共har模板库，仅供示例",
+   "language": "",
+   "lang_color": "",
+   "stars": 1644,
+   "forks": 339,
+   "period_stars": 4,
+   "is_new": false,
+   "days": 8
   },
   {
    "repo": "Paving-Base/APK-Installer",
@@ -1067,42 +850,9 @@
    "lang_color": "#7355dd",
    "stars": 1726,
    "forks": 168,
-   "period_stars": 6,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "qd-today/templates",
-   "url": "https://github.com/qd-today/templates",
-   "desc": "基于开源新版 QD 框架站发布的公共har模板库，仅供示例",
-   "language": "",
-   "lang_color": "",
-   "stars": 1645,
-   "forks": 339,
-   "period_stars": 5,
-   "src": [
-    "trending"
-   ],
-   "is_new": false,
-   "days": 7
-  },
-  {
-   "repo": "zotero-chinese/styles",
-   "url": "https://github.com/zotero-chinese/styles",
-   "desc": "中文 CSL 样式 - Zotero 中文社区",
-   "language": "XML",
-   "lang_color": "#0060ac",
-   "stars": 6357,
-   "forks": 943,
    "period_stars": 4,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   },
   {
    "repo": "jynew/jynew",
@@ -1113,11 +863,8 @@
    "stars": 9008,
    "forks": 1894,
    "period_stars": 2,
-   "src": [
-    "trending"
-   ],
    "is_new": false,
-   "days": 7
+   "days": 8
   }
  ]
 }
