@@ -228,7 +228,8 @@
    "pending": 0,
    "stopped": ""
   },
-  "seconds": 305
+  "seconds": 305,
+  "readme_added": 1
  },
  "repos": [
   {
@@ -378,6 +379,23 @@
    "batch": false,
    "is_new": false,
    "days": 8
+  },
+  {
+   "repo": "zxsos/HGhubX",
+   "url": "https://github.com/zxsos/HGhubX",
+   "desc": "Cross-platform short-drama client built with Tauri 2, React and Rust.",
+   "language": "TypeScript",
+   "lang_color": "#3178c6",
+   "stars": 5492,
+   "forks": 3127,
+   "period_stars": 5492,
+   "created": "2026-11-09",
+   "age_days": 15.7,
+   "per_day": 350.4,
+   "batch": false,
+   "readme_zh": true,
+   "is_new": false,
+   "days": 5
   },
   {
    "repo": "havenicec/google-qr-sms-helper",
