@@ -1,7 +1,7 @@
 {
  "since": "monthly",
  "date": "2026-11-26",
- "generated_at": "2026-11-26T00:00+00:00",
+ "generated_at": "2026-11-26T05:06+00:00",
  "first_run": false,
  "coverage": {
   "pages": 834,
@@ -11,7 +11,32 @@
   "overall_count": 22,
   "only_in_lang_pages": 57,
   "full_sweep": true,
-  "seconds": 211
+  "seconds": 211,
+  "tracked": {
+   "min_stars": 100,
+   "scanned": 505226,
+   "tracked": 49269,
+   "queries": 6145,
+   "complete": true,
+   "seconds": 17001,
+   "problems": [],
+   "unfinished": 0,
+   "readme": {
+    "checked": 300,
+    "added": 5,
+    "by_issues": 3,
+    "errors": 0,
+    "candidates": 46753,
+    "stopped": "",
+    "min_gain": 91,
+    "total": 132
+   },
+   "days": 8,
+   "need_day": "2026-10-27",
+   "ready": false,
+   "ready_on": "2026-12-19",
+   "added": 0
+  }
  },
  "repos": [
   {
@@ -23,6 +48,9 @@
    "stars": 191257,
    "forks": 13393,
    "period_stars": 7428,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -35,6 +63,9 @@
    "stars": 47505,
    "forks": 3671,
    "period_stars": 4519,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -47,6 +78,9 @@
    "stars": 132726,
    "forks": 15627,
    "period_stars": 2026,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -59,6 +93,9 @@
    "stars": 108745,
    "forks": 4593,
    "period_stars": 1970,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -71,6 +108,9 @@
    "stars": 29588,
    "forks": 793,
    "period_stars": 1478,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -83,6 +123,9 @@
    "stars": 104305,
    "forks": 11239,
    "period_stars": 1416,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -95,6 +138,9 @@
    "stars": 28855,
    "forks": 2057,
    "period_stars": 1053,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -107,6 +153,9 @@
    "stars": 32389,
    "forks": 2139,
    "period_stars": 983,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -119,6 +168,9 @@
    "stars": 48987,
    "forks": 4794,
    "period_stars": 945,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -131,6 +183,9 @@
    "stars": 7947,
    "forks": 349,
    "period_stars": 943,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -143,6 +198,9 @@
    "stars": 9426,
    "forks": 672,
    "period_stars": 901,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -155,6 +213,9 @@
    "stars": 24780,
    "forks": 2978,
    "period_stars": 890,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -167,6 +228,9 @@
    "stars": 19214,
    "forks": 1725,
    "period_stars": 805,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -179,6 +243,9 @@
    "stars": 30254,
    "forks": 5580,
    "period_stars": 777,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -191,6 +258,9 @@
    "stars": 82736,
    "forks": 12482,
    "period_stars": 761,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -203,6 +273,9 @@
    "stars": 23202,
    "forks": 2010,
    "period_stars": 758,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -215,6 +288,9 @@
    "stars": 27203,
    "forks": 667,
    "period_stars": 703,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -227,6 +303,9 @@
    "stars": 40629,
    "forks": 8710,
    "period_stars": 661,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 4
   },
@@ -239,6 +318,9 @@
    "stars": 48076,
    "forks": 10448,
    "period_stars": 632,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -251,6 +333,9 @@
    "stars": 20393,
    "forks": 1204,
    "period_stars": 565,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -263,6 +348,9 @@
    "stars": 40401,
    "forks": 10316,
    "period_stars": 499,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -275,6 +363,9 @@
    "stars": 28141,
    "forks": 4149,
    "period_stars": 471,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -287,6 +378,9 @@
    "stars": 19886,
    "forks": 1172,
    "period_stars": 459,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -299,6 +393,9 @@
    "stars": 14297,
    "forks": 1194,
    "period_stars": 446,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 7
   },
@@ -311,6 +408,9 @@
    "stars": 30381,
    "forks": 2772,
    "period_stars": 421,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -323,6 +423,9 @@
    "stars": 28981,
    "forks": 4235,
    "period_stars": 373,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -335,6 +438,9 @@
    "stars": 8629,
    "forks": 785,
    "period_stars": 344,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -347,6 +453,9 @@
    "stars": 24600,
    "forks": 2795,
    "period_stars": 334,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -359,6 +468,9 @@
    "stars": 8293,
    "forks": 2743,
    "period_stars": 305,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -371,6 +483,9 @@
    "stars": 7300,
    "forks": 717,
    "period_stars": 288,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -383,6 +498,9 @@
    "stars": 19980,
    "forks": 3115,
    "period_stars": 276,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -395,6 +513,9 @@
    "stars": 31726,
    "forks": 3265,
    "period_stars": 269,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -407,6 +528,9 @@
    "stars": 6047,
    "forks": 338,
    "period_stars": 258,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -419,6 +543,9 @@
    "stars": 27236,
    "forks": 4701,
    "period_stars": 255,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -431,6 +558,9 @@
    "stars": 36155,
    "forks": 5815,
    "period_stars": 245,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -443,6 +573,9 @@
    "stars": 15373,
    "forks": 2551,
    "period_stars": 244,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -455,6 +588,9 @@
    "stars": 13074,
    "forks": 1701,
    "period_stars": 240,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -467,6 +603,9 @@
    "stars": 9847,
    "forks": 1409,
    "period_stars": 228,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -479,6 +618,9 @@
    "stars": 6019,
    "forks": 724,
    "period_stars": 212,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -491,6 +633,9 @@
    "stars": 18216,
    "forks": 2521,
    "period_stars": 205,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -503,6 +648,9 @@
    "stars": 37325,
    "forks": 6580,
    "period_stars": 204,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -515,6 +663,9 @@
    "stars": 8823,
    "forks": 1093,
    "period_stars": 200,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -527,6 +678,9 @@
    "stars": 7630,
    "forks": 347,
    "period_stars": 194,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -539,6 +693,9 @@
    "stars": 7702,
    "forks": 232,
    "period_stars": 192,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -551,6 +708,9 @@
    "stars": 20119,
    "forks": 3230,
    "period_stars": 188,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -563,6 +723,9 @@
    "stars": 9246,
    "forks": 1924,
    "period_stars": 186,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -575,6 +738,9 @@
    "stars": 9132,
    "forks": 898,
    "period_stars": 183,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -587,6 +753,9 @@
    "stars": 5759,
    "forks": 300,
    "period_stars": 174,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -599,6 +768,9 @@
    "stars": 8410,
    "forks": 751,
    "period_stars": 167,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -611,6 +783,9 @@
    "stars": 18644,
    "forks": 2131,
    "period_stars": 155,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -623,6 +798,9 @@
    "stars": 5972,
    "forks": 1148,
    "period_stars": 155,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -635,6 +813,9 @@
    "stars": 13523,
    "forks": 1804,
    "period_stars": 152,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -647,6 +828,9 @@
    "stars": 11458,
    "forks": 1252,
    "period_stars": 144,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -659,6 +843,9 @@
    "stars": 8768,
    "forks": 1191,
    "period_stars": 140,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -671,6 +858,9 @@
    "stars": 14828,
    "forks": 1966,
    "period_stars": 132,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -683,6 +873,9 @@
    "stars": 12266,
    "forks": 841,
    "period_stars": 126,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -695,6 +888,9 @@
    "stars": 9347,
    "forks": 52925,
    "period_stars": 119,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -707,6 +903,9 @@
    "stars": 11567,
    "forks": 1308,
    "period_stars": 116,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -719,6 +918,9 @@
    "stars": 4242,
    "forks": 193,
    "period_stars": 97,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -731,6 +933,9 @@
    "stars": 6561,
    "forks": 2047,
    "period_stars": 90,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -743,6 +948,9 @@
    "stars": 7913,
    "forks": 842,
    "period_stars": 90,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -755,6 +963,9 @@
    "stars": 31628,
    "forks": 19003,
    "period_stars": 88,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -767,6 +978,9 @@
    "stars": 33497,
    "forks": 7473,
    "period_stars": 88,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -779,6 +993,9 @@
    "stars": 3158,
    "forks": 245,
    "period_stars": 83,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -791,6 +1008,9 @@
    "stars": 11925,
    "forks": 14638,
    "period_stars": 80,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -803,6 +1023,9 @@
    "stars": 2659,
    "forks": 174,
    "period_stars": 69,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -815,6 +1038,9 @@
    "stars": 8856,
    "forks": 569,
    "period_stars": 61,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -827,6 +1053,9 @@
    "stars": 30596,
    "forks": 7332,
    "period_stars": 49,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -839,6 +1068,9 @@
    "stars": 6822,
    "forks": 2514,
    "period_stars": 47,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -851,6 +1083,9 @@
    "stars": 21535,
    "forks": 4313,
    "period_stars": 41,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -863,6 +1098,9 @@
    "stars": 3297,
    "forks": 1723,
    "period_stars": 37,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -875,6 +1113,9 @@
    "stars": 6770,
    "forks": 1897,
    "period_stars": 34,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -887,6 +1128,9 @@
    "stars": 1644,
    "forks": 339,
    "period_stars": 25,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 7
   },
@@ -899,6 +1143,9 @@
    "stars": 6356,
    "forks": 943,
    "period_stars": 25,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -911,6 +1158,9 @@
    "stars": 8616,
    "forks": 1924,
    "period_stars": 23,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -923,6 +1173,9 @@
    "stars": 8845,
    "forks": 1406,
    "period_stars": 17,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -935,6 +1188,9 @@
    "stars": 4431,
    "forks": 632,
    "period_stars": 15,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -947,6 +1203,9 @@
    "stars": 7766,
    "forks": 883,
    "period_stars": 10,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   },
@@ -959,6 +1218,9 @@
    "stars": 4436,
    "forks": 1628,
    "period_stars": 9,
+   "src": [
+    "trending"
+   ],
    "is_new": false,
    "days": 9
   }

@@ -229,7 +229,8 @@
    "pending": 93,
    "stopped": "时间用完"
   },
-  "seconds": 1200
+  "seconds": 1200,
+  "readme_added": 1
  },
  "repos": [
   {
@@ -379,6 +380,23 @@
    "batch": false,
    "is_new": false,
    "days": 9
+  },
+  {
+   "repo": "zxsos/HGhubX",
+   "url": "https://github.com/zxsos/HGhubX",
+   "desc": "Cross-platform short-drama client built with Tauri 2, React and Rust.",
+   "language": "TypeScript",
+   "lang_color": "#3178c6",
+   "stars": 5632,
+   "forks": 3146,
+   "period_stars": 5632,
+   "created": "2026-11-09",
+   "age_days": 16.7,
+   "per_day": 338.2,
+   "batch": false,
+   "readme_zh": true,
+   "is_new": false,
+   "days": 6
   },
   {
    "repo": "BryceYuuu/RUN",
