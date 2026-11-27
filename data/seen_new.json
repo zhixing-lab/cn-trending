@@ -6,9 +6,9 @@
   "new_on": "2026-11-22"
  },
  "0DNANCY/agy-claude-style": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "0c-biggo/0c-ime": {
@@ -23,21 +23,27 @@
   "last": "2026-11-23"
  },
  "0xkaka/homeport": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "10291124jcjc-dotcom/ai-anime-series": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "1095071913/maozi-poker-strat": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
+ },
+ "1276486/ZERO-X-Bypass-Jailbreak": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "1314521gjy/ComfyUI-Local-Infinite-Canvas": {
   "days": 7,
@@ -45,21 +51,21 @@
   "last": "2026-11-24"
  },
  "1lck/viff": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "21stware/bowel": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "239LAN/AMLauncher": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "239LAN/AMinecraftLauncher": {
@@ -68,15 +74,15 @@
   "last": "2026-11-22"
  },
  "2951461586/DeepAICode2API": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "2SinceJuly/SkyDot": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "3436872746/mcd-swap": {
@@ -91,29 +97,35 @@
   "last": "2026-11-20"
  },
  "5151561/Trackr": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "7sen1ot/zcode2api": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "7wdn/7paws": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "804384049/portfree": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "81199000/DouDuo": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "8hjkkwikl8/ai-portfolio": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "9bie/php2shell-bypass-aslr-exp": {
   "days": 2,
@@ -122,45 +134,51 @@
   "new_on": "2026-11-19"
  },
  "AACS111/EnvGuardCC": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "ABLingss/awesome-agent-loops": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "AFangTeam/PrintLab": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
+ "AI-FanGe/A-MicroRobot-that-can-Rollerskate": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "AIBanlv/AIBanlv-Bot": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "AIRzZ90/study-materials-fork": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "ATtacK030130/antigrative-dashboard": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "Aabyss-Team/Threat-Broadcast-Plus": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "Addition2000/mcd-diet-guard": {
@@ -168,27 +186,39 @@
   "first": "2026-11-18",
   "last": "2026-11-22"
  },
+ "Aenvo/MuseLink": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "AgenticOrgLab/ExecOrchestra": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "Airexplosion/openopq-client": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Akillll-DuoHe/fy-code-animation": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "AlbertusPecori930129/virtual-card-usdt-ai-quant-trading-sentiment-data-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "AldenHe/huayoupu-ledger": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Alex-star-arch/mcd-burger-studio": {
   "days": 5,
@@ -196,32 +226,38 @@
   "last": "2026-11-22"
  },
  "Allencake/mit-trader-skill": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "AntarcticLu/pigu": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
+ "ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "AsamiAkito/wisland": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Ashley-QwQ/disc-probe": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "B1lli/pbz-save-rescue": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "BEN020406/maimen-order-manager": {
@@ -246,9 +282,9 @@
   "last": "2026-11-22"
  },
  "BigPizzaV3/ClaudeMom": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Blessing-BOS/RimChecker": {
   "days": 3,
@@ -261,14 +297,14 @@
   "last": "2026-11-23"
  },
  "BorisSun0424-boop/zaoba": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "BryceYuuu/RUN": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Buptropz/equity-research-tutor": {
   "days": 3,
@@ -292,19 +328,19 @@
   "new_on": "2026-11-20"
  },
  "CUDADA-jpg/her-words": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "CXP-2024/gpt-anime-denoise": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "CallMeGuLab/dsh-purge-safe": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Cattmonkey/ChaosIntelligence": {
   "days": 5,
@@ -318,9 +354,9 @@
   "new_on": "2026-11-19"
  },
  "CelestialSayuki/n56-patcher": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "Charonyuu/whatsmyagentdoing": {
@@ -330,9 +366,9 @@
   "new_on": "2026-11-19"
  },
  "Chen-Yu-Qing2005/tuomin": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Chenkin-x/ComfyUI-Moss-Image-Edit": {
   "days": 2,
@@ -341,32 +377,32 @@
   "new_on": "2026-11-20"
  },
  "ChetasLua/crimson-loong": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ChinaGuCheng/Claude-ban-notes": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "Ciao1019/ArcMD": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Cindyzhan1/domain-aware-product-research-skill": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Ckxkx/account-atlas": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "Clair-ChenShoujie/Babeldoc4GPT": {
@@ -375,20 +411,20 @@
   "last": "2026-11-25"
  },
  "CoderL98/hghub-plugins": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ColdP/AuraPlayer": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "CryptoYuyyy02/stickman-video-director": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "CuboiLeo/SuperMimic-Reproduced": {
@@ -398,86 +434,92 @@
   "new_on": "2026-11-19"
  },
  "CzJam/gjgjxweb": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "CzzzzzzJ/mdldm-maitian": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "CzzzzzzJ/mdldm-maitian-publisher": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "D1ngtalk/iap2loc": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "DEEIX-AI/Winc": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "DIYgod/pinky": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "DKKD13/dsh-finance": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "DandanLLab/SnowCatQQ": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Daniel-King-8/CoreOps": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
+ "DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "Deeyu/ai-costume-gallery-zh": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "DerrekKarkut846380/virtual-card-usdt-autonomous-research-agents-finops": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "DerrekKarkut846380/virtual-card-usdt-devin-desktop-kiro-spec-billing": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "DevriesL/wish": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "Dgkncn/g1-acq-plus": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "DiscoveryH2/wallpaper-engine-native": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Dr-xu193/syncnote-community": {
@@ -487,9 +529,9 @@
   "new_on": "2026-11-20"
  },
  "Duoasa/Duoasa-skill": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ELY-Open-Source/ELYTerminal": {
   "days": 1,
@@ -498,21 +540,33 @@
   "new_on": "2026-11-19"
  },
  "Easyblue11/ezness": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
+ "Elaine-Lynn/GenTV": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "Elio896/dsh-familiar-memory": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ElloboDK/KeyCat": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
+ },
+ "Enzoo404/gravitybox": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "Esmerubphire/astrbot_plugin_feiyu_voice": {
   "days": 6,
@@ -521,24 +575,24 @@
   "new_on": "2026-11-19"
  },
  "EthanJ66/lumai-sense": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Eynnzerr/TelemetryCleaner": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Faixiang/UI-Kit-Aggregator-MCP": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Fanqi89/dsh-craft-anything": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Fantasy1316/deskflow-ddc": {
   "days": 2,
@@ -547,14 +601,20 @@
   "new_on": "2026-11-21"
  },
  "FlashCat-Jordan/Flashduck": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "Fy1ng/Fy1Sync": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "GGBondLab/OpenHC": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "GeorgeGcs/ArkGenie": {
@@ -563,14 +623,14 @@
   "last": "2026-11-22"
  },
  "Gloridust/WowType": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Guang233/CirrusMusic": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "GuqiGG/Bili-Space": {
@@ -579,26 +639,26 @@
   "last": "2026-11-25"
  },
  "GxDongV/SnipLite": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "H4CNPE/YumEdit": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "HRuiCcc/RuiC-2D": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "HRuiCcc/RuiC-PoseAtlas": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "HZDavy/MoteDeck": {
   "days": 6,
@@ -610,38 +670,44 @@
   "first": "2026-11-18",
   "last": "2026-11-24"
  },
+ "Haruhi764/OmniCAD-Skill": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "HeinrichZ/CloudField": {
   "days": 4,
   "first": "2026-11-18",
   "last": "2026-11-21"
  },
  "HiSeax/dsh-windows-superagent": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "HuanCheng65/Oolong": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "Hut-hzf/ung220z-tool": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "INK-Q/agy-fast": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "IRmsk/pace-forge": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "IcebergN2026/artex-ld": {
@@ -660,32 +726,32 @@
   "last": "2026-11-22"
  },
  "JGRFW/comfyui-aicg3d-PoseSwap": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "JIUSIS/MiStep": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "Jane-xiaoer/xiaoer-wx-svg": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "JenkinWoo/sheeridVerify": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Jennypopping/TestForgeAI": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Jestions-dev/BlueFatFish": {
   "days": 6,
@@ -693,15 +759,15 @@
   "last": "2026-11-23"
  },
  "JiamWei624/CausalOps": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "JimLiu/open-artifact": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "Jimu888/home-tv-cn": {
@@ -710,15 +776,15 @@
   "last": "2026-11-20"
  },
  "JinJieBeWater/herdr-t3": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "Johnson-Durui/ApexCluster": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "JunWan666/astrbot-for-android": {
@@ -727,19 +793,19 @@
   "last": "2026-11-25"
  },
  "JuneYaooo/rea-toon": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "JuneYaooo/rea-video": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "JunieXD/NextTodo": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "JustinGongjj/chan-structure-workstation": {
   "days": 9,
@@ -747,74 +813,74 @@
   "last": "2026-11-26"
  },
  "KJGX66F/FreeNodePanel": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "KJGX66F/FreeNodePick": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "KJGX66F/singbox-cf-node": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "KJGX66F/unikraft-xray-node": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "KKKKhazix/agent-autoloop": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "KRYPT-123/kiro-motion-studio": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "KaelLee335/enterprise-support-agent-v2": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "KenjiIra5580/openai-o3-deep-research-applepay-vcc": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "Kepler16f/HGhub": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "Kianuni/AppleFlow": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Kianuni/Camlo": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Kianuni/Erosion-CN": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Kianuni/WQGuard": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "KiritoXDone/c001apk": {
   "days": 6,
@@ -822,9 +888,9 @@
   "last": "2026-11-23"
  },
  "Koimsurai/Arke": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Konata9/inkstone": {
@@ -834,37 +900,37 @@
   "new_on": "2026-11-19"
  },
  "Kulolooo/Kumore_Agentic-RAG": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "LBEILC/Pane": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "LBEILC/StrongholdAssistant": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "LIUFelix2004/dsh-workbuddy": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "LIUFelix2004/museAPI-video": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "LNPANDY/HGhub-MacOS-iOS-Version": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "LNPANDY/NX2Apple": {
   "days": 3,
@@ -872,20 +938,26 @@
   "last": "2026-11-20"
  },
  "Lain-in-coding/dsh-grok-search": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "Lanqiao-Luca/ai-java-workflow": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Lanqiao-Luca/ai-video-marker": {
   "days": 8,
   "first": "2026-11-18",
   "last": "2026-11-25"
+ },
+ "Lappercn/tender-master": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "Lawrence-of-AnKing/yunzhuan-duren": {
   "days": 4,
@@ -899,9 +971,9 @@
   "last": "2026-11-21"
  },
  "Lee-xeo/Claude-Cage": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Leon-Ning-san/HomuraReader": {
   "days": 3,
@@ -920,14 +992,14 @@
   "last": "2026-11-25"
  },
  "LilycleHeart/qqnt-liuli-theme": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "LiteLDev/Arke": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "LittleChest/mcd-withwork-skills": {
@@ -936,14 +1008,14 @@
   "last": "2026-11-23"
  },
  "Lniosy/dsh-tool-grok-bot": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Lniosy/souhun": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Loping151/dsh-nekowhale-stickers": {
   "days": 5,
@@ -956,9 +1028,9 @@
   "last": "2026-11-21"
  },
  "Luciferutts/partspilot": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Ludi-Herry/b-end-design-system-skill": {
   "days": 7,
@@ -971,20 +1043,20 @@
   "last": "2026-11-22"
  },
  "Lumidarin/agy-capsule": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "MCDFsteve/Enji": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "MUSE-AI-Lab/Concept-Brittleness": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "MUSE-AI-Lab/ReMCTS": {
@@ -1012,10 +1084,16 @@
   "new_on": "2026-11-19"
  },
  "MarceloBear8052/huggingface-pro-inference-endpoints-vcc": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
+ },
+ "MarchelloBruckman875170/virtual-card-usdt-cross-border-ai-ecommerce-saas-applepay": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "Mars-1438/indextts2-longform-workbench": {
   "days": 8,
@@ -1023,14 +1101,14 @@
   "last": "2026-11-25"
  },
  "Megasu/jimao-3a-game": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "MelissiaCervone94583/virtual-card-usdt-mcp-tool-use-ecosystem-billing-vcc": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Michael017801/Persona-Forge": {
@@ -1045,25 +1123,31 @@
   "new_on": "2026-11-19"
  },
  "Minglink/dsh-infinite-gen-n": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Minglink/dsh-jailbreak-workflow": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Minglink/dsh-workflows": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Minireel/HGhub": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
+ },
+ "MoeShinX/ZeeTerm": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "Moessif/code-video-showcase": {
   "days": 5,
@@ -1093,33 +1177,33 @@
   "last": "2026-11-24"
  },
  "MrTangLuyao/sniplite": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "MrYams0/audio-stem-splitter": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Muchuaner/safe-code": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "N1nEmAn/sapper-v2": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "NANA7MI0/dsh-purge-go": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "NJU-R-L-Group-Embodied-Lab/SuperMimic-Repro-Sim2Real": {
@@ -1140,9 +1224,9 @@
   "new_on": "2026-11-19"
  },
  "Nihilist-ZIO/prompt-library": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "NorthGateChat/dsh-think-game": {
   "days": 3,
@@ -1155,26 +1239,26 @@
   "last": "2026-11-24"
  },
  "OMOBruce/anymovie-releases": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "ObiGeorgette0043/github-models-copilot-workspace-vcc": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Old-Friends-Gathering/sedimem": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "OpenBMB/ForgeKernel": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "OpenBMB/MiniCPM-OCR": {
@@ -1184,21 +1268,21 @@
   "new_on": "2026-11-19"
  },
  "OpenFisherCommunity/rf4_server_simulator": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "OpenMOSS/MOSS-Live": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "OpenSenseNova/SenseNova-Loop": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "Over9rowth/O9-RD-MAO-Governance": {
@@ -1207,9 +1291,9 @@
   "last": "2026-11-20"
  },
  "PAICNI/Next_Kit": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "PBSB666/class-management-miniapp": {
@@ -1217,27 +1301,33 @@
   "first": "2026-11-18",
   "last": "2026-11-19"
  },
+ "PCIEARIA/A6400-Extra-Menu": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "PZW152/one-click-eu-lord": {
   "days": 2,
   "first": "2026-11-18",
   "last": "2026-11-19"
  },
  "PedroBronwyn4251/anthropic-claude-3-7-applepay-vcc-guide": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "Peoley199/HGhubX": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "PigCanFly1001/unitytool-agent-radar": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "Pilipala9919/MarcoMovie": {
@@ -1252,9 +1342,9 @@
   "new_on": "2026-11-22"
  },
  "PisenAILab/china-patent-figure-skill": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "PivisYYY/pivis-video-dubbing-agent-kit": {
@@ -1274,14 +1364,14 @@
   "last": "2026-11-26"
  },
  "Pluviobyte/claude-ban-clean": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "QriDoki/in-search-of-lost-time-translation-project": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "QuantMLResearch/quant-handbook": {
   "days": 8,
@@ -1290,9 +1380,9 @@
   "new_on": "2026-11-19"
  },
  "QuincyColin9394/elevenlabs-voice-ai-applepay-vcc": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "QuinnTang74/3106": {
@@ -1302,19 +1392,19 @@
   "new_on": "2026-11-21"
  },
  "QxTeak/bdFun": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "R0xyHaruhi/CreatorLab": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "RMvdesi/obsidian-prism": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "RYF5584/WeAppDev": {
@@ -1328,43 +1418,49 @@
   "last": "2026-11-19"
  },
  "Rain-dust/daihua-cad": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "Rangers-x/BLO": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "Renakoni/Voicebox": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Renly1994/xiaotang-daozai": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "Reukix/Reloc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "ReynaUlses275591/virtual-card-usdt-ai-code-review-ci-cd-pipeline-vcc": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Ritrls/dream-arcade-demo": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "RoutineMiku/apkstart": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Ryder191/haloflux": {
   "days": 3,
@@ -1372,21 +1468,21 @@
   "last": "2026-11-20"
  },
  "SAINTTaiYi/SpektraLab-Android": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "SANS41478/Picrand": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "SAOS-3624/dsh-see-now": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "SAOS-3624/dsh-video-storyboard": {
   "days": 8,
@@ -1395,19 +1491,19 @@
   "new_on": "2026-11-19"
  },
  "Sac-Y/match-cut": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Saekisui/claude-p-pipeline": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Shayt0ny/Spektra-Studio": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ShuaiMXu/happyhands": {
   "days": 6,
@@ -1416,9 +1512,9 @@
   "new_on": "2026-11-19"
  },
  "SilentGuard-SG/silentguard": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "SonicloudTech/mouse-mcp": {
@@ -1427,26 +1523,26 @@
   "last": "2026-11-19"
  },
  "SophieCecil7793/windsurf-cursor-pro-vcc-finops": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Soulmate-Halo/HaloLab-Yee": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "SteinsHead/agents-md": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "StephanieSu76/yizhu-weiqi-releases": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "Stormlyd/PodTide": {
@@ -1456,9 +1552,9 @@
   "new_on": "2026-11-19"
  },
  "SuLiuCanYing/dsh-billing-statistics": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "SuperBigFatDog/mcd-nearest-deal": {
@@ -1468,9 +1564,9 @@
   "new_on": "2026-11-20"
  },
  "Sxuan-Coder/open-apex-drama": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "T1ffanyOvO/mcd-fries-pet": {
@@ -1484,9 +1580,9 @@
   "last": "2026-11-21"
  },
  "TT-csk/childhood-arcade": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "TUcookie/mcd-deal-hunter": {
   "days": 6,
@@ -1494,15 +1590,15 @@
   "last": "2026-11-23"
  },
  "TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "TabethaBult399205/virtual-card-usdt-indie-hacker-ai-mvp-saas-applepay": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Tencent-Hunyuan/Hy-Nomas": {
@@ -1512,31 +1608,31 @@
   "new_on": "2026-11-19"
  },
  "ThanatosXingYu/HGhub": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "TixXin/Fuyu": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "TizenryA/colab-gpu-studio": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "TngSHoO/agentcase-lab": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "TobyWang1996/animon": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "Tom123223/maimen-xinshi": {
@@ -1545,15 +1641,15 @@
   "last": "2026-11-21"
  },
  "TomyJan/SnowLuma": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "TooonyChen/finallyshell": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Toyaspio/maibot-baidu-search": {
   "days": 7,
@@ -1561,9 +1657,9 @@
   "last": "2026-11-24"
  },
  "Tranquillitatis-Lab/dsh-live-compact": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Travins/yi-ui": {
   "days": 4,
@@ -1576,25 +1672,31 @@
   "first": "2026-11-18",
   "last": "2026-11-19"
  },
+ "VUILabsAI/Luna-Translator": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "VaneAi888/vane-gpt-image-skills": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Verlintas/NOIR": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "WANGXIN-567/weread-book-exporter": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "WHY-fly/Flash-is-all-local-need": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Wendystar0628/AI-All-Round-Bench": {
@@ -1610,9 +1712,9 @@
   "new_on": "2026-11-19"
  },
  "WhiteBr1ck/agy-powertools": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "Win-Hao/music-mv": {
@@ -1626,15 +1728,21 @@
   "last": "2026-11-20"
  },
  "WoYun520/gif-factory": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Work-Fisher/fisher-moss-prompt-expander": {
   "days": 2,
   "first": "2026-11-20",
   "last": "2026-11-21",
   "new_on": "2026-11-20"
+ },
+ "Wow-CaiCai/Coda": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "Wunsch2048/codex-bailong-desktop-pet": {
   "days": 3,
@@ -1658,9 +1766,9 @@
   "new_on": "2026-11-20"
  },
  "Xiao-youyu/GalNook": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "Xiao1an/ARTEX-God": {
@@ -1669,21 +1777,21 @@
   "last": "2026-11-20"
  },
  "XiaoQAQ10086/FrameGen-Manager-Next": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Xiaogugtfgdfhgrh/MikSU": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "XiaoyeCodes/code-animation-prompts": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "XinchengLabs/302api-developer-kit": {
   "days": 7,
@@ -1691,14 +1799,14 @@
   "last": "2026-11-24"
  },
  "XingYunStar/NapCatQQ": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "XingYunStar/snowluma": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Xinge2333/codex-quota-bar": {
   "days": 4,
@@ -1711,25 +1819,25 @@
   "last": "2026-11-19"
  },
  "YIAN6557/x-hdr-video": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "YIUWUE/stadium-journal": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "YT-Proteus-bot/MineAgent": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "YTruman/better-skill": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "YUsaltyfish/dsh-onebot-qq": {
   "days": 2,
@@ -1737,32 +1845,32 @@
   "last": "2026-11-19"
  },
  "YZH2006517/Photo-All-Android": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "Yari-tuber/mv-director": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "YeJe-cpu/easy-jianying": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "Yhmx6/offerchaser": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "Yoolk233/FastGithub": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "YoyoLin008/mcreplay": {
@@ -1782,9 +1890,9 @@
   "new_on": "2026-11-20"
  },
  "ZRainbow1275/skills": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "ZXEB/dsh-purge": {
@@ -1798,14 +1906,14 @@
   "last": "2026-11-25"
  },
  "Zguoxu/tiny-transformer-from-scratch": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ZhangJiening/-": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "ZiChuanLan/agent-purge": {
@@ -1815,9 +1923,9 @@
   "new_on": "2026-11-19"
  },
  "ZiChuanLan/freebie-radar": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ZiChuanLan/some-magic": {
   "days": 7,
@@ -1831,43 +1939,43 @@
   "new_on": "2026-11-20"
  },
  "Zzz11042/assets-upload": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "_meta": {
   "baseline": "2026-11-18"
  },
  "aa1143/NamiAgent": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "aa1143/NamiDSH": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "aa1143/NamiGPT": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "aaANDkk/Qure_Style_SVG": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "aarchy7/tsumugux": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "abbayankale-blip/claude-fable-5-enterprise-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "abckkf321/-mcd-fair-split": {
@@ -1877,9 +1985,9 @@
   "new_on": "2026-11-19"
  },
  "abubakkarabdulzalil-bit/gemini-4-argon-gcp-billing-pipeline": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "achun1107/video-kit": {
@@ -1888,9 +1996,9 @@
   "last": "2026-11-20"
  },
  "achun1107/xianyu-auto-listing": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "actionow-ai/vvv": {
   "days": 4,
@@ -1898,44 +2006,44 @@
   "last": "2026-11-21"
  },
  "acxun/hyperos-dm-report": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "addozhang/leancast": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "adinurlanova218-png/ai-payment-router-proxy": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "adunext/adudir-open": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "adventists-ai/sophon-realtime": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "ai-azhou/pdf-to-interactive-web": {
@@ -1950,21 +2058,27 @@
   "last": "2026-11-21"
  },
  "aishadiaodeqishui/agy-monitor": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "alanautofin-a11y/open-operator-payment-proxy": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "alchaincyf/huashu-bird-sticker": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "alienbai1107-art/TYPINCAT": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "alsunmengy/Claude-PCB-Art": {
   "days": 7,
@@ -1972,9 +2086,9 @@
   "last": "2026-11-24"
  },
  "andyhuo520/beanpod": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "andyhuo520/digital-human-koubo": {
@@ -1984,9 +2098,9 @@
   "new_on": "2026-11-19"
  },
  "andyhuo520/vibe-knowledge": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "anhao/ai-pose-gallery-zh": {
   "days": 9,
@@ -1994,38 +2108,38 @@
   "last": "2026-11-26"
  },
  "annadeters-gif/-deepseek-v4-flash-api-firewall": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "anqimouty907-byte/groq-cloud-batch-lpu-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "apimodels/muse-video-prompts": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "ar7336004-ops/ff14-qq-bot": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "aronhy/marketing-skill-hub": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "atuizz/posewear": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "aureth-labs/dsh-aurabot-qq": {
   "days": 6,
@@ -2038,32 +2152,32 @@
   "last": "2026-11-20"
  },
  "bassignanaluca7002-rgb/CoreGold---Cross-Border-Payment-Gateway-Multi-Currency-VCC-Infrastructure-for-Global-SaaS-Cloud-Ops": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "bassnova42/arch-diagram-skill": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "bayshier/pixelfx-zh": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "bazongotalato-cyber/deepseek-api-overseas-proxy": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "beilunyang/openhongguo": {
@@ -2072,20 +2186,20 @@
   "last": "2026-11-25"
  },
  "beiwocaishijia/gezhi-sheets": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "bensafifatima57-svg/perplexity-deep-research-applepay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "big-tooth/mcd-recommend-meal-by-emotion": {
   "days": 4,
@@ -2094,20 +2208,26 @@
   "new_on": "2026-11-20"
  },
  "bingyunhe/hongxue-stronghold-companion": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "blatterjils-sketch/openai-o1-pro-tier-vcc-solution": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
+ "blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "blessingyakubu400-art/CoreGold---Virtual-Card-Hub-for-Overseas-Travel-Gaming-Global-Shoppers": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "bnbxcs/TMTN": {
   "days": 6,
@@ -2116,55 +2236,61 @@
   "new_on": "2026-11-20"
  },
  "bohuis686-creator/AstralCodex": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "bonkoungouyobi24-sketch/gemini-4-carbon-cyber-defense-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "bookleme/bookleme": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "borchertnad-creator/-virtual-card-usdt-enterprise-ai-transparency-audit-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "borchertnad-creator/runpod-cloud-gpu-spend-firewall-vcc": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "bortburrito-cyber/CoreGold---Virtual-Card-Gateway-to-Subscribe-to-ChatGPT-Plus-OpenAI-API": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "brady2037/hghub-plugin": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "brian901106/japanese-tutor-mugi": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "buobo/ARTEX-IOT": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "capllen/Subnook": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ccch1mneyyy/dsh-Go": {
   "days": 7,
@@ -2172,38 +2298,38 @@
   "last": "2026-11-24"
  },
  "ccch1mneyyy/dsh-go-market": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "cclank/lanshu-html-ppt-templates": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "celiarceron-byte/meta-muse-wonder-code-subscription": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "cfour-hi/mygo-cloudmusic": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "chadyi/StudyOnTV": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "chandraputrajogja-sudo/CoreGold---Next-Gen-Virtual-Credit-Card-Protocol-for-Cross-Border-E-Commerce-Media-Buyers": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "changxueyi/renqing-shigu": {
   "days": 4,
@@ -2212,9 +2338,9 @@
   "new_on": "2026-11-19"
  },
  "chanke17/KuroCat": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "charolettebradford1361985svo-bit/stable-sprite-animation": {
@@ -2234,25 +2360,25 @@
   "last": "2026-11-20"
  },
  "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "cherchiobarbie931-rgb/CoreGold---VCC-Infrastructure-for-Dropshipping-Proxy-IPs-Social-Matrix": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "chuiziyao/wushuang-iptv": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "chuspeeism/xiaozao-os": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "chutingyean/Agent-Cockpit": {
@@ -2261,9 +2387,9 @@
   "last": "2026-11-26"
  },
  "chuxuan861119/zhichan-xiaozhan-work": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "cjh-solver/MathModeling-Skills-Arsenal": {
@@ -2282,21 +2408,21 @@
   "last": "2026-11-24"
  },
  "cli117/antigravity-hakimi": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "cloveric/tarobird": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "cnzotero/zotero-community": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "corespaceteam/MMSpace": {
@@ -2305,15 +2431,15 @@
   "last": "2026-11-24"
  },
  "crhywun/g1-acq": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "cuiyucheng0104-afk/beiming-engine": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "curry897/2026-crypto-contest-data-support": {
   "days": 2,
@@ -2322,14 +2448,14 @@
   "new_on": "2026-11-20"
  },
  "cutetailbud/FastAIToken": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "cutetailbud/ff-ruyijs": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "cyber-xiaoya/cyber-xiaoya-live": {
@@ -2338,53 +2464,53 @@
   "last": "2026-11-24"
  },
  "cyberdaddyleo/workstation-teacher": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "czg86389-hub/ACP-Ant": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "dabingfy-dot/solo-to-team-skills": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "danielarum740-lab/deepseek-r1-distill-cloud-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "davidcitahernandez-debug/computer-use-agent-vault": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "davidsorianop021-cmd/perplexity-pro-applepay-": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "dbcaskml183-dotcom/dsh-prelude": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "dddkkw/CadensView": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "deepopen-com/deepopen-3d-webs": {
   "days": 8,
@@ -2397,9 +2523,9 @@
   "last": "2026-11-25"
  },
  "derekfuture/livebook": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "designfuchen/word-atlas": {
   "days": 7,
@@ -2407,20 +2533,20 @@
   "last": "2026-11-24"
  },
  "designfuchen/worldforge": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "dhsakilkhan503-a11y/-virtual-card-usdt-qwen4-max-deepseek-v4-hybrid-routing": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "didi/helixharness": {
@@ -2429,55 +2555,55 @@
   "last": "2026-11-26"
  },
  "didilili/mianstack": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "dijia9723/live2d-studio": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "dingxiaopi/clash-verge-static-ip": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "dohocanis673-source/xai-grok-supergrok": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "dohocanis673-source/xai-grok-supergrok-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "drophubsuporte-web/coregold-ai-runner": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "dseditor/h3-colab-skill": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "dsolobalani-bot/-coregold-saas-pass": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "dufu1991/foldgit": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "duliangkuan/raise-an-ai": {
@@ -2486,9 +2612,9 @@
   "last": "2026-11-19"
  },
  "duppjuzo/ExtBridge": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "dustinliang666-blip/lava-mcp": {
@@ -2497,26 +2623,32 @@
   "last": "2026-11-20"
  },
  "duwqijlk/browser-capture": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "duwqijlk/google-trial-tool": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "duwqijlk/muse-protocol": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "duyunzhoudyz/dyz-med-paper-skills": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "duzhenxun/pop-agent": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "dvbs2000/liuchunlin-shufa": {
   "days": 6,
@@ -2524,9 +2656,9 @@
   "last": "2026-11-23"
  },
  "earayu/Mingle": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "egoist/mygo-cloudmusic": {
@@ -2535,15 +2667,15 @@
   "last": "2026-11-24"
  },
  "emergi-lab/anima": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "emo666/t2can-lane-change": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "emoPointer/supermimic_manipulation": {
@@ -2553,9 +2685,9 @@
   "new_on": "2026-11-20"
  },
  "enticingns/fujiang-armor": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "enviousmigra/kaiwu-anAIdesigner": {
@@ -2574,15 +2706,15 @@
   "last": "2026-11-26"
  },
  "eragritchiegg15-beep/elevenlabs-voice-api-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "eust-w/opengeniemaster": {
@@ -2592,58 +2724,58 @@
   "new_on": "2026-11-19"
  },
  "exilemoulei/pob4agents": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "fahsq72lan/dsh-guide-tutor": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "fangrui202575/muse-canvas-deploy": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "fanhuayishiy/ai-crew-pass": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ferretgeek/prokbot-plus": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "fgsdg7590-sys/CoreGold---High-ROI-Virtual-Card-Engine-0-Decline-Media-Buying-Instant-Multi-Account-Scaling": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "firstmuse-ai/unrestricted-image-studio": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "fkingikelee/fkikelee": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "flitai-io/gpuworks": {
@@ -2653,36 +2785,36 @@
   "new_on": "2026-11-19"
  },
  "floatboatai/OpenMinutes": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "floydcastillo1987/vivo-root-devices": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "flutterdream/UAV_segmentation": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "free-dam-man/agent-deploy-memory-muse": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "free-dam-man/cloud-exit-node-deploy": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "frostming/dsh-hongguo": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "fush520/fush-vue-mcp": {
@@ -2697,15 +2829,15 @@
   "new_on": "2026-11-20"
  },
  "garayzueva87-gif/cursor-agent-windsurf-pro-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "geraldtrure-create/coregold-adblock-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "gfydfhcf/wechat-ilink-muse-bridge": {
@@ -2714,21 +2846,21 @@
   "last": "2026-11-19"
  },
  "gh9ko8y/graphmemory": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "ghosundict/dict": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "guadalupemary48528-gif/CoreGold---Dev-Card-Gateway-for-App-Store-Play-Console": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "guanmo-ai/design-style": {
@@ -2737,21 +2869,21 @@
   "last": "2026-11-19"
  },
  "guanmo-ai/guanmo-studio": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "gulliblerea/Shadowrocket-Shared-Apple-ID": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "gulucaptain/Best-Paper-Writing-Skill": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "gundamli/McShake": {
@@ -2760,25 +2892,25 @@
   "last": "2026-11-20"
  },
  "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "guuguo/antigravity-zh-launcher": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "guzhezao/sandcove": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "guzhezao/scroll-web-skills": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "gylive/google-ultra": {
   "days": 3,
@@ -2797,9 +2929,9 @@
   "last": "2026-11-20"
  },
  "hakihakii/bibibobo": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "haohao866/-usdt-otc-": {
@@ -2827,9 +2959,9 @@
   "new_on": "2026-11-20"
  },
  "hecateadis-ux/cursor-windsurf-pro-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "helloianneo/ian-xhs-carousel": {
@@ -2843,19 +2975,19 @@
   "last": "2026-11-24"
  },
  "hg552/eSIM-Matrix": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "hhtower/price-comparison": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "hikariming/dsh-ee": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "holdcloud/mcd-calendar-buddy": {
   "days": 7,
@@ -2868,55 +3000,55 @@
   "last": "2026-11-19"
  },
  "hongye007/open-pose-costume": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "hossebmarup-wq/-coregold-ecommerce-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "hovocope135-tech/DSH-projects": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "hsuehly/xiaoyu": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "httpdone/magpie-aws-quick": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "huaguoxingkong/dsh-prompt-rewriter": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "huami1314/GestaltX": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "huangserva/h3-fight": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "huaxialucaicaizi/ai-from-zero": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "huaxialucaicaizi/ai-startup-skills": {
@@ -2925,9 +3057,9 @@
   "last": "2026-11-21"
  },
  "hunmer/aboutme-pets": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "hupao-creator/Chief": {
   "days": 1,
@@ -2941,9 +3073,9 @@
   "last": "2026-11-20"
  },
  "iPocket-APP/MijiaLAN": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "icyaaaww/dsh-soul": {
   "days": 4,
@@ -2957,14 +3089,20 @@
   "last": "2026-11-21"
  },
  "ifrc-zju/offchain-storage-audit": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ifrc-zju/state-bound-identity": {
   "days": 4,
   "first": "2026-11-18",
   "last": "2026-11-21"
+ },
+ "iiranlin/catgo": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "ilAoC/mcd-gacha-collector": {
   "days": 3,
@@ -2972,30 +3110,30 @@
   "last": "2026-11-20"
  },
  "ilworkcn/MaiWeave": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "imraywang/ray-sticker-shop": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "imsai-sh/fish-pocket": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ingridha894-ship-it/codex-cloud-ide-billing-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "iniwex5/VoWiFiX": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "ios151/Insav-releases": {
@@ -3009,20 +3147,32 @@
   "last": "2026-11-22"
  },
  "ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
+ "ismavetedessbessel746-web/virtual-card-usdt-gemini-omni-1-2-flash-video-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
+ "ismavetedessbessel746-web/virtual-card-usdt-nvidia-supply-chain-cloud-gpu-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "itsmaiGe/luci-theme-7dollar": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ivangorbov55-web/apple-pay-us-vcc-setup-guide": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "jacke-pp/ai-wallet-binance": {
@@ -3031,25 +3181,25 @@
   "last": "2026-11-24"
  },
  "jacke-pp/open-yoki": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "jackson-cmd/risk-aware-trading-agents": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jackson-cmd/zeus-options-terminal": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jackwener/DSH-Android": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jackwener/Kaze": {
   "days": 4,
@@ -3058,55 +3208,61 @@
   "new_on": "2026-11-19"
  },
  "jagerzhang/PoHW": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jailsonbronk21-sketch/deepseek-r1-failover-vcc": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
+ "jaronhonda387-design/virtual-card-usdt-anthropic-ipo-claude52-vcc-applepay": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "jasonxu114514/aws-quickwork-2api": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "jefferysha0627/agent-office-3d": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "jeger2019-collab/openai-o3-deepseek-billing-proxy": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "jessiecca69-dev/github-copilot-business": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "jessiecca69-dev/github-copilot-business-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "jhaizhou-ops/S2Arm": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jianghao-jianghao-jianghao/newHoldem": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "jianxinss/iching-64-motion": {
@@ -3121,9 +3277,9 @@
   "new_on": "2026-11-19"
  },
  "jihe520/agent-graph": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jiuyang5354/bilibili-margin": {
   "days": 9,
@@ -3137,9 +3293,9 @@
   "new_on": "2026-11-20"
  },
  "jjs202210-jpg/dashi-wo-wu-le": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jjuugk/CarPToCarL": {
   "days": 7,
@@ -3147,19 +3303,19 @@
   "last": "2026-11-24"
  },
  "jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jmarianodaa-ctrl/CoreGold---Anti-Decline-VCC-Gateway-Direct-Issuing-Protocol-for-Scaled-Media-Buying-Cross-Border-Ops": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "joeseesun/capwise": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "joeseesun/qiaomu-simpleui": {
   "days": 6,
@@ -3167,9 +3323,9 @@
   "last": "2026-11-23"
  },
  "joeseesun/subcast": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jouaaaaaa/mcd-self-butler": {
   "days": 6,
@@ -3187,30 +3343,30 @@
   "last": "2026-11-20"
  },
  "justhalfbit/thinksmart-ubuntu-image": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jw7967kim-hub/CoreGold---Virtual-Card-Playbook-Subscribe-to-Global-AI-Tools-Cross-Border-Services": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "jw7967kim-hub/coregold-proxy-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "jxy333967/jianxunyun": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "kamdavad2152-bit/gpt-6-1-sol-api-budget-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "keoyyo85/FoundPhone-Studio": {
@@ -3220,26 +3376,26 @@
   "new_on": "2026-11-19"
  },
  "keptaduona/wickline": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "keyshadougherty70-dev/coregold-reseller-api": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "kilolonion/agent-vscreen": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "kimpoungajoyce-cmd/chatgpt-pro-subscription-guide": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "kirklin/skyward": {
@@ -3249,9 +3405,9 @@
   "new_on": "2026-11-19"
  },
  "knot07/AegisOps": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "knowflow-ai/KnowWork": {
   "days": 3,
@@ -3269,9 +3425,9 @@
   "last": "2026-11-25"
  },
  "kristofermeyer9-cloud/huggingface-pro-inference-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "ksjhk/api": {
@@ -3280,9 +3436,9 @@
   "last": "2026-11-25"
  },
  "ksjhk/hotel-reseller": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "ktv668899/maidong-ktv": {
@@ -3295,6 +3451,12 @@
   "first": "2026-11-18",
   "last": "2026-11-19"
  },
+ "kure29/flyx": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "l0ng-ai/openidea": {
   "days": 2,
   "first": "2026-11-19",
@@ -3302,9 +3464,9 @@
   "new_on": "2026-11-19"
  },
  "laloli2145-star/coregold-adspend-firewall": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "laobamac/SimpleBCM": {
@@ -3319,21 +3481,21 @@
   "last": "2026-11-23"
  },
  "laurencianaadina-gif/gpt-6-pro-parallel-agents-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "lbc9168/antigravity-codex-worker": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "ldjx7/multi-agent-account-manager": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "leishifu666/LeiBox": {
@@ -3342,27 +3504,27 @@
   "last": "2026-11-21"
  },
  "leisure271/maodie-purge": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "lemomo-ai/lemo-animi": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "leocontasprimes-cpu/grok-4-7-supergrok-applepay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "lepatjing828-beep/claude-opus-5-5-long-context-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "lesnolie/Tigris": {
@@ -3378,14 +3540,14 @@
   "new_on": "2026-11-23"
  },
  "liangdabiao/seedance-storyboard-generator-realman": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "liangjianshu/multimodal-image-retrieval": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "licpp/BiliMusic-Desktop": {
   "days": 8,
@@ -3393,15 +3555,15 @@
   "last": "2026-11-25"
  },
  "lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra-": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "liguozheng-ac/Lingbo-Desk": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "lihailong00/tomorrow-ai": {
@@ -3410,9 +3572,9 @@
   "last": "2026-11-20"
  },
  "lijiaqi-AI-Product-Manager/dsh-agent-compare": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "lijiaqi-AI-Product-Manager/job_radar": {
   "days": 2,
@@ -3420,26 +3582,26 @@
   "last": "2026-11-19"
  },
  "lili-luo/dsh-plugin-bundle": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "limanman-design/lumior-community": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "limin112/bilipicks": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "lingquan11/ai-chip-explorer": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "lingquan11/cpp-matmul-performance": {
@@ -3448,25 +3610,25 @@
   "last": "2026-11-21"
  },
  "linux-do/mapp-developer-guide": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "linzin86/LinzinDeskClock": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "lisaebay94-svg/Apple-Pay-Google-Pay": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "liu-qingyuan/together-cinema": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "liu7866/couple-home": {
@@ -3480,31 +3642,31 @@
   "last": "2026-11-21"
  },
  "liujh0729-jpg/AI-enterprise-OEM": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-18",
-  "last": "2026-11-25"
+  "last": "2026-11-27"
  },
  "liuliuya2333/LiLite": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "liuxiaogang-com/desktop-icon-billiards": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "livrospoderosospro-prog/openai-o3-api-budget-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "lixiaoxiao9888-create/forest-laoli-h3": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "liyupi/dafeiyu-cleaner": {
@@ -3513,14 +3675,14 @@
   "last": "2026-11-22"
  },
  "lizhenjie137/intelligent-organization": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "lizi600jin/dsh-ensp": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "llm-xiaoye/cc-connect-dy-author": {
@@ -3540,20 +3702,20 @@
   "new_on": "2026-11-20"
  },
  "llros007/leneo": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "lmdk321321/GPT-Rankings": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "logitcai/tinybrain": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "looplj/reveric": {
@@ -3568,21 +3730,21 @@
   "new_on": "2026-11-19"
  },
  "lucasforster1108-boop/oracle-snatch": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "lujingshi1978-glitch/ds-life-and-soul": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "luobinger/PerkRadar": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "lusouldepth-ai/FDE_Learning": {
@@ -3604,21 +3766,27 @@
   "new_on": "2026-11-20"
  },
  "ma1902056219-coder/openpixel": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
+ "madrays/trackferry": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "manassiradao368-tech/gemini-2-flash-thinking-api-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "mansoorivajira136-art/anthropic-claude-3-7-code-vcc-guide": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "margbug01/MySpotify": {
@@ -3627,46 +3795,52 @@
   "last": "2026-11-25"
  },
  "mashangshui/digital-life-core": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "masoudrana1988-design/-gemini-4-argon-gcp-billing-setup": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "maxingan2412/MathInsight": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "mdiri-ai/SoduWork": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "memoryoffish/film-director-skill-plugin": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "menakhaled3112008-commits/craft-cards": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
+ },
+ "mengxiangsama/middleware-component-lab": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "midnightMerge982/personaforge": {
   "days": 6,
@@ -3675,15 +3849,15 @@
   "new_on": "2026-11-21"
  },
  "migasahara-ship-it/claude-duet-proactive-agent-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "mileson/chaojifeng-video-content-creator": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "mileson/chaojifeng-video-design": {
@@ -3698,9 +3872,9 @@
   "new_on": "2026-11-19"
  },
  "mmdoctor/google-pro-helper": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "mochi-fish/dsh-fish": {
@@ -3716,20 +3890,20 @@
   "new_on": "2026-11-19"
  },
  "modswawa-netizen/openrouter-multi-llm-router-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "mofan6/Moect": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "montimazumder14-del/coregold-cloud-gpu-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "moonoops/Droy": {
@@ -3737,6 +3911,12 @@
   "first": "2026-11-21",
   "last": "2026-11-26",
   "new_on": "2026-11-21"
+ },
+ "morangse/SwiftTV": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "mozihe/z-localization": {
   "days": 4,
@@ -3749,48 +3929,48 @@
   "last": "2026-11-21"
  },
  "mrjoechen/luci-theme-carbon": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "mrxxaxx/shengmo": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "mugicha-AI/ComfyUI-PoseAtlas": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "muran169633/contextflow-translate": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "my-name-is-alan/iDuanJu": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "mylea1/phongent": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "nancyc0813-maker/agentid-sniper": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "narcosovalle173-glitch/browser-agent-operator-sandbox-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "nasir63425-art/tiktok-scraper": {
@@ -3800,31 +3980,31 @@
   "new_on": "2026-11-19"
  },
  "ndpyzwy-0w0/DropBridge": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "nearaura/OnmyojiAutoScript": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "nengong/download-anything": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "nhovongoc0-max/trend-workbench": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "nigewen/airport-notes": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "night-watchman401/hdbot-navigation": {
   "days": 1,
@@ -3838,52 +4018,58 @@
   "last": "2026-11-26"
  },
  "ninetyhe-90/training-explore": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "nintendoitsaso-wq/CoreGold---Simplest-Guide-to-ChatGPT-Plus-3-Step-Setup-with-Virtual-Card": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "nishuzumi/show-me-you-want-skill": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "niyouqianma/workbuddy2api-hub": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "nkjDSLcvanv/antigravity-codex-theme": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "nobcdz/CarUp": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "nolan2628/ZVE10-Astra-Public": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "nooxebas-sketch/cursor-windsurf-agentic-ide-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
+ },
+ "nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "null0526/dario-genesis": {
   "days": 6,
@@ -3891,9 +4077,9 @@
   "last": "2026-11-23"
  },
  "nzy517/maimai-people-connect": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "o-Sakurajimamai-o/cet-practice": {
   "days": 7,
@@ -3901,20 +4087,20 @@
   "last": "2026-11-24"
  },
  "oil-oil/agy-fast-io": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "oil-oil/oil-dev-skills": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "oil-oil/oil-diff": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "oinkvm/oink": {
   "days": 1,
@@ -3922,15 +4108,21 @@
   "last": "2026-11-19",
   "new_on": "2026-11-19"
  },
+ "omnimux-ai/omnimux-client": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "op7418/dsh-guizang-design": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "op7418/guizang-game-skill": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "op7418/guizang-tv": {
   "days": 2,
@@ -3944,33 +4136,33 @@
   "new_on": "2026-11-19"
  },
  "oriliz/agent-crop": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "oujingzhou/agent-interview-questions": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "ozanazhuang-eng/deepseek-r1-api-spend-governance": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "p90rushb666/RootToolbox": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "paipiange/nvzhuang": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "pan8664716/HGTV": {
   "days": 8,
@@ -3983,20 +4175,26 @@
   "last": "2026-11-20"
  },
  "parallelpan/hongguo-downloader": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
+ "pawsdaniyal488-oss/virtual-card-usdt-oracle-openai-cost-advisor-vcc-finops": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "peacefulj/SSCI-SCI-skills": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "pengchujin/aerial-tv": {
@@ -4005,20 +4203,20 @@
   "last": "2026-11-19"
  },
  "petergreiff3-pixel/gemini-2-5-pro-gcp-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "peterpoal134/memory-brain": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "phodal/pero": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "physicsdolphin/nv-uefi-unlocker": {
@@ -4028,19 +4226,19 @@
   "new_on": "2026-11-19"
  },
  "plumblossom26/WCRefine-For-Mac": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "poco-ai/agentero-dsh-plugin": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "poisonhs/HGhub-Plugin": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "pyqdcyy123-byte/IP-Bot": {
@@ -4053,6 +4251,12 @@
   "first": "2026-11-18",
   "last": "2026-11-22"
  },
+ "qianyiai/KuroCat": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "qianyiai/kurocat": {
   "days": 4,
   "first": "2026-11-23",
@@ -4060,32 +4264,32 @@
   "new_on": "2026-11-23"
  },
  "qianyushen/fonter-skill": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "qiaoranlaodou-cpu/your-next-point": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "qiu7824/zsdesk": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "qkl12041016s/math-review-notes": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "quacat748-droid/graduation-thesis-ai": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "quirekit/quirekit": {
   "days": 6,
@@ -4100,21 +4304,21 @@
   "new_on": "2026-11-19"
  },
  "qybaihe/botark": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "raudhatulirfandta-droid/claude-code-billing-setup": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "raylee-ai/lancer": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "rddmwmddr/android-ad-cleaner": {
@@ -4123,15 +4327,15 @@
   "last": "2026-11-23"
  },
  "remoniaperfumes9-eng/open-source-ai-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "reneefrank8161/CoreGold-ChatGPT-Pro-Cursor": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "renjiegod/dyt-ashare-cli": {
   "days": 1,
@@ -4140,30 +4344,30 @@
   "new_on": "2026-11-19"
  },
  "rhfbgfgfdg999999/3d-printer-live": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ritaxavier765-prog/CoreGold---Dynamic-VCC-Shield-for-Agency-Ad-Operations": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "rolazd/xiaoai-doubao": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "ruletascasiteveo1-bot/coregold-multimodal-pay": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "s1dashu/quiet-md": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "saf1102/opentake-standard": {
@@ -4173,26 +4377,26 @@
   "new_on": "2026-11-20"
  },
  "sahinmola5-rgb/coregold-vcc-terminal": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "saideao/research-idea-review": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "sakifaahmad-gif/-kimi-k3-pro-overseas-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "sakurakingfifth-debug/PUIInstaller": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "sdcb/SimdCodecs": {
@@ -4202,21 +4406,21 @@
   "new_on": "2026-11-20"
  },
  "sdparklab/Voltide": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "sdvch/tongjiang-lab": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "selenahonsinger/Fast-Translate": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "setube/github-chinese": {
@@ -4225,26 +4429,26 @@
   "last": "2026-11-25"
  },
  "shallow-seek-nothing/mihome-pc-unofficial": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "shanyu13671992389-ai/vpn-guide-2026": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "shenwei322/dsh-purge-ports": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "shipwords-dev/shipwords": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "shitouxiaoge-commits/CFAPEX": {
   "days": 4,
@@ -4252,21 +4456,21 @@
   "last": "2026-11-21"
  },
  "sibylsea-hub/touch-space": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "simonice102-ctrl/coregold-payment-runbook": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "skilltoAI/skillto-ai-studio": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "skydeadpeng/hongguo-android-cast": {
@@ -4276,41 +4480,41 @@
   "new_on": "2026-11-19"
  },
  "sleepy-zone/ai-ref-library-cn": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "sleepy-zone/char-db-cn": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "sogud/mygo-music-netease": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "soimy/c3rb3r-rescue": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "sojibyyy6-lab/apple-pay-us-ai-subscription": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "spacesky-cell/TwinFix": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "sqlpxc/airhand": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "ssamurias/dsh-fish": {
@@ -4319,9 +4523,9 @@
   "last": "2026-11-20"
  },
  "stephenlinyu/hilly-farm-scheduler": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "stevensun1005/fuxi-pdf": {
@@ -4335,9 +4539,9 @@
   "last": "2026-11-25"
  },
  "stvlynn/spines": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "sunreview/anti-claude": {
   "days": 4,
@@ -4345,9 +4549,9 @@
   "last": "2026-11-21"
  },
  "superboyyy/hakios-arm64e-dada": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "supercli-site/awesome-coding-plan": {
   "days": 4,
@@ -4355,15 +4559,15 @@
   "last": "2026-11-21"
  },
  "sygnomkt-ops/CoreGold---3-Step-Guide-to-Subscribe-to-Claude-Pro-Cursor-AI": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "syydaniel/awesome-code-animation": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "t8y2/motty": {
   "days": 3,
@@ -4372,9 +4576,9 @@
   "new_on": "2026-11-19"
  },
  "tamim2vv-creator/claude-3-7-extended-thinking-billing": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "tangchengjiao/jianzhou-media-workbench": {
@@ -4383,32 +4587,32 @@
   "last": "2026-11-23"
  },
  "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "tankfnmb-droid/CoreGold---Virtual-Card-Engine-for-Indie-Hackers-Micro-SaaS-Builders": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "tdelowar17-tech/coregold-agent-paygate": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "teikengstudio/XMPlus": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "tequed232/DSH-L2D": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "terryHu7/homecraft": {
   "days": 6,
@@ -4416,21 +4620,21 @@
   "last": "2026-11-23"
  },
  "thawline/dsh-memewiki": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "threerocks/article2media": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "tian1326/mcd-coupon-assistant": {
   "days": 6,
@@ -4443,19 +4647,19 @@
   "last": "2026-11-26"
  },
  "tmxk2020/ysp-live": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "tonyzdev/dsh-session-messaging": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "topmindspace/dsh-super-kanban": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "trouble123456/Film-Simulation": {
@@ -4469,20 +4673,20 @@
   "last": "2026-11-20"
  },
  "ttyineworld/yu-apple": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "txga01Lwz/shendeng": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "txp666/FluentHMI-Studio": {
@@ -4497,50 +4701,56 @@
   "last": "2026-11-20",
   "new_on": "2026-11-20"
  },
+ "vancevcs/VPORT": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "vanh83ec-sys/aigc-paper-rewrite": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "vibe-motion/sound": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "victorcuscahua1974-afk/ChatGPT-Plus-Pro-": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "victorcuscahua1974-afk/ai-video-studio-billing-guard": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "visitantexbox64-byte/cursor-pro-subscription-guide": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "vivibibi30/hyperpguard": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "vpn-proxy-bot/VPN-SSR-V2ray-Trojan": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "vps1986/hghub-clone": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "vxcn/mcd-kcal-picker": {
   "days": 6,
@@ -4548,15 +4758,15 @@
   "last": "2026-11-23"
  },
  "w01fb0ss/PiBot": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "w1ccc/sap-data-mcp": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "wahaha-potato/mcd-coupon-xray": {
@@ -4569,10 +4779,16 @@
   "first": "2026-11-18",
   "last": "2026-11-19"
  },
+ "wangbingnan136/agy-max": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
+ },
  "wanghao-SunSky/cs329z-chinese": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wangrongding/tv-fresh": {
   "days": 7,
@@ -4585,42 +4801,48 @@
   "last": "2026-11-19"
  },
  "wangweihong/comfyui-costume-gallery": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wangweihong/comfyui-portrait-gallery": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wangweihong/comfyui-pose-gallery": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wangyudawang1/qishuiAScriptProject": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "wangzan101/Mika": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "water649/MioWatery": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "waw666waw666/RegisterHub": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "wc4440222/google-ai-offer-subscription": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "wdcyxxycdw/padmate": {
   "days": 7,
@@ -4628,15 +4850,15 @@
   "last": "2026-11-24"
  },
  "weile10000/xc2-ns2-recomp": {
-  "days": 6,
+  "days": 7,
   "first": "2026-11-21",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-21"
  },
  "wideeyededi/uncensored-nsfw-ai-video-api": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wokaotianshi123/guoappxxx": {
   "days": 6,
@@ -4644,47 +4866,47 @@
   "last": "2026-11-23"
  },
  "woniuniuniu/dsh-media-desk": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "woodfishhhh/obituary": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "woshi32s/liziair": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "wquguru/cicada": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wquguru/fable52-fps-repro": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wukongdaily/boxadb": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "wukongdaily/boxadb-fnos": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "wwh5441/pelican-6000-pure-code": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "wwwffbf/frac-interactive-wallpaper": {
@@ -4693,33 +4915,33 @@
   "last": "2026-11-23"
  },
  "wy51ai/easycolab": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "wycocoyu/agy-context-dashboard": {
-  "days": 3,
+  "days": 4,
   "first": "2026-11-24",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-24"
  },
  "wynneceles/ai-boot-animations": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "wynter-yaxley/atrium-desktop": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "wzc520pyfm/gen-ai-pose-image": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "xanthichi/mcd-meal-mate": {
   "days": 6,
@@ -4727,41 +4949,47 @@
   "last": "2026-11-23"
  },
  "xia1314tong/quantum-circuit-studio": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "xiaobai0818/Flyingshark_agv": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "xiaoerofficial021-collab/FlowHMR-Windows": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "xiaoshaguabuzai/llamananodemo": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "xiaoshaguabuzai/roam": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "xiaoyou5602/Unfixed": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "xiaozhangup/Oh-My-McDonald": {
   "days": 6,
   "first": "2026-11-18",
   "last": "2026-11-23"
+ },
+ "xiayuan0817/Azur-Promilia-Chinese-Translation-Script": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "xinyitang3/cftgwebproxy": {
   "days": 4,
@@ -4769,9 +4997,9 @@
   "last": "2026-11-21"
  },
  "xiyasunny-blip/grok-3-big-brain-subscription": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "xmwengxing/CFPilot": {
@@ -4780,21 +5008,21 @@
   "last": "2026-11-20"
  },
  "xmz28/CarWithin": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "xmz28/tetherpin-ios": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "xqpsec/dsh-jailbreak": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel": {
   "days": 5,
@@ -4808,9 +5036,9 @@
   "new_on": "2026-11-20"
  },
  "xunianooo/All-in": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "xx20050823xx/McMate": {
@@ -4825,9 +5053,9 @@
   "new_on": "2026-11-19"
  },
  "xyt-dev/nekochat": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "xyzww888/muse-JP-Reg": {
@@ -4837,20 +5065,20 @@
   "new_on": "2026-11-19"
  },
  "yang0/chatgpt2api-dsh": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "yang0/magpie-gptfree": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "yangokok886/dylix": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "yaojingang/GEOInflow": {
   "days": 8,
@@ -4858,19 +5086,19 @@
   "last": "2026-11-25"
  },
  "ybblab/Jiumi": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "yc-2018/DoubaoVoiceIME": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "yetone/rewind-for-x": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "yftx888/Pulse": {
@@ -4879,33 +5107,33 @@
   "last": "2026-11-20"
  },
  "yibie/claude-best-practices-zh": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "yijiejiang/kaogong-school": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "yiyihuohuo/WMPFWorkbench-go": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "yizhixiaoheigou/10RemoteHub": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "yldm-ai/mirra": {
-  "days": 4,
+  "days": 5,
   "first": "2026-11-23",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-23"
  },
  "yooma1/qufz": {
@@ -4920,9 +5148,9 @@
   "new_on": "2026-11-19"
  },
  "youngkaherbert96-ship-it/coregold-quickstart-guide": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "yqf66/Solevia": {
@@ -4931,21 +5159,21 @@
   "last": "2026-11-20"
  },
  "ysunyang4/Nexus": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "ysunyang4/webagent": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "ytwddtt/Tesla-drug-private": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "yu994419160/dsh-purge1.7.3-": {
@@ -4954,20 +5182,26 @@
   "last": "2026-11-22"
  },
  "yuanshengbo8-sketch/douyin-fav-study": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
+ },
+ "yunjuanyunshu114-byte/antigravity-observer": {
+  "days": 1,
+  "first": "2026-11-27",
+  "last": "2026-11-27",
+  "new_on": "2026-11-27"
  },
  "yunjuanyunshu114-byte/antigravity-zh-plugin": {
-  "days": 1,
+  "days": 2,
   "first": "2026-11-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-26"
  },
  "yuntuCTO/yuntu-wechat-ipad": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "yzddmr6/android-mainline-port": {
   "days": 2,
@@ -4980,20 +5214,20 @@
   "last": "2026-11-20"
  },
  "zFitness/nx2androidX": {
-  "days": 8,
+  "days": 9,
   "first": "2026-11-19",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-19"
  },
  "zararogers338-hash/Chengmeng-A-Life-Support-Assistant-Designed-for-Transgender-Individuals-with-a-History-of-Incarcerat": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zarockfat/zgg-find-ecommerce-skills": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zengshuangzi/mcd-money-saver": {
   "days": 4,
@@ -5001,14 +5235,14 @@
   "last": "2026-11-21"
  },
  "zephyr4123/snug": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "zexuanw958-svg/dafeiyu-config-pack": {
@@ -5027,14 +5261,14 @@
   "last": "2026-11-23"
  },
  "zhanghao123vip/ai-manju-skills": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zhangjing361/wengao-box": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zhangyehao/zotero-fulltext-assistant": {
   "days": 4,
@@ -5042,26 +5276,26 @@
   "last": "2026-11-21"
  },
  "zhaohongxuan/dsh-weread": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zhaoyang51/vpn-tizi-fanqiang": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "zheznanohana/nekodrop": {
-  "days": 2,
+  "days": 3,
   "first": "2026-11-25",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-25"
  },
  "zhouwei713/luobo-design": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "zhtyyx/codex-seo": {
@@ -5071,20 +5305,20 @@
   "new_on": "2026-11-20"
  },
  "zhuchongba-01/dsh-breach": {
-  "days": 5,
+  "days": 6,
   "first": "2026-11-22",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-22"
  },
  "zklmiao/CodeWar": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zklmiao/prompt-vault": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zoefix/agent-speed": {
   "days": 2,
@@ -5098,9 +5332,9 @@
   "last": "2026-11-20"
  },
  "zxmls-ai/Hackintosh-skill": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
  "zxsos/HGhubX": {
   "days": 6,
@@ -5109,9 +5343,9 @@
   "new_on": "2026-11-21"
  },
  "zysen1/batch-video-plugin": {
-  "days": 7,
+  "days": 8,
   "first": "2026-11-20",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "new_on": "2026-11-20"
  },
  "zzp1221/Research-Assistant-Agent": {
@@ -5121,8 +5355,8 @@
   "new_on": "2026-11-19"
  },
  "zzzhr1990/StellarAndroid": {
-  "days": 9,
+  "days": 10,
   "first": "2026-11-18",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  }
 }
