@@ -234,7 +234,8 @@
    "pending": 0,
    "stopped": ""
   },
-  "seconds": 410
+  "seconds": 410,
+  "readme_added": 1
  },
  "repos": [
   {
@@ -368,6 +369,23 @@
    "batch": false,
    "is_new": false,
    "days": 10
+  },
+  {
+   "repo": "zxsos/HGhubX",
+   "url": "https://github.com/zxsos/HGhubX",
+   "desc": "Cross-platform short-drama client built with Tauri 2, React and Rust.",
+   "language": "TypeScript",
+   "lang_color": "#3178c6",
+   "stars": 5727,
+   "forks": 3159,
+   "period_stars": 5727,
+   "created": "2026-11-09",
+   "age_days": 17.7,
+   "per_day": 324.5,
+   "batch": false,
+   "readme_zh": true,
+   "is_new": false,
+   "days": 7
   },
   {
    "repo": "Hut-hzf/ung220z-tool",
